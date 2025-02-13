@@ -1,0 +1,3795 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "resources",
+    "deps": [
+        "internal"
+    ],
+    "uuids": [
+        "0109e4b4-e7a6-49b1-a218-d2b0bf9d944c@29e0d",
+        "0109e4b4-e7a6-49b1-a218-d2b0bf9d944c@57eb5",
+        "0109e4b4-e7a6-49b1-a218-d2b0bf9d944c@955ef",
+        "0109e4b4-e7a6-49b1-a218-d2b0bf9d944c@bef47",
+        "0115aa767",
+        "01257abbe",
+        "01566267d",
+        "0184606e6",
+        "01aef955b",
+        "01c16bff4",
+        "01cc3ed75",
+        "01eb52cb0",
+        "01f0a4608",
+        "01f3d1398",
+        "01fe55c03",
+        "0231c4e39",
+        "023f23ba7",
+        "0241f4bf6",
+        "025405a72",
+        "025845bca",
+        "025d8ac01",
+        "02896b532",
+        "0292f2aa0",
+        "02b5a2dba",
+        "02c50a0c4",
+        "02f95a794",
+        "03451c9a8",
+        "038f231eb",
+        "03c334300",
+        "03e41ef79",
+        "03f1317fb",
+        "03f93382e",
+        "03fbae2c6",
+        "0409b28fa",
+        "040b1763f",
+        "0424c50f3",
+        "04414146e",
+        "045678bc8",
+        "046fb6020",
+        "04a0bd43a",
+        "05099f51f",
+        "0522432a0",
+        "052b42231",
+        "0532ed09-a71b-41da-8839-f01a8fd2b6dc@3ee36",
+        "0532ed09-a71b-41da-8839-f01a8fd2b6dc@63474",
+        "0532ed09-a71b-41da-8839-f01a8fd2b6dc@7d6ab",
+        "0532ed09-a71b-41da-8839-f01a8fd2b6dc@83472",
+        "0532ed09-a71b-41da-8839-f01a8fd2b6dc@8cb46",
+        "0532ed09-a71b-41da-8839-f01a8fd2b6dc@ec731",
+        "0544707cc",
+        "05683960f",
+        "057ba8855",
+        "057ccc302",
+        "05af4264f",
+        "05c275115",
+        "05da714f2",
+        "0664b993-1e28-431d-8a81-86e713929d03@41bc4",
+        "0664b993-1e28-431d-8a81-86e713929d03@7d6ab",
+        "0664b993-1e28-431d-8a81-86e713929d03@83472",
+        "0664b993-1e28-431d-8a81-86e713929d03@87ffa",
+        "0664b993-1e28-431d-8a81-86e713929d03@957b8",
+        "067b45550",
+        "06b91df12",
+        "06db18870",
+        "06e14933e",
+        "0711a5191",
+        "0766d988e",
+        "076d75202",
+        "0787534a9",
+        "0837a7a8a",
+        "084da7c7c",
+        "085d52d12",
+        "09864ec79",
+        "099464b41",
+        "09c09c88e",
+        "09ca832d8",
+        "0a1573b60",
+        "0a4eb435c",
+        "0a51335d7",
+        "0a7e55b97",
+        "0aa6b9e8a",
+        "0acec0d3a",
+        "0b07d21e2",
+        "0b351f61f",
+        "0b66fdd7f",
+        "0bd10ccc-b37f-4b33-80c1-3d9a5c4f508c",
+        "0bd10ccc-b37f-4b33-80c1-3d9a5c4f508c@6c48a",
+        "0bd10ccc-b37f-4b33-80c1-3d9a5c4f508c@f9941",
+        "0c238e2c3",
+        "0c28d3711",
+        "0c2aab3c4",
+        "0c38f6cb1",
+        "0c59d5f5b",
+        "0c827392f",
+        "0c90455ca",
+        "0cae3fc39",
+        "0cff5ce2e",
+        "0d59425fa",
+        "0d6936ecb",
+        "0daee83a8",
+        "0de07a519",
+        "0e1ac5d77",
+        "0e780838b",
+        "0f05d2404",
+        "0f6bdf64a",
+        "1082e7f7-39d0-4418-9517-ad533bbf211d",
+        "1082e7f7-39d0-4418-9517-ad533bbf211d@6c48a",
+        "1082e7f7-39d0-4418-9517-ad533bbf211d@f9941",
+        "1089309a-b080-4fcb-b6ed-1cb2ef948b30",
+        "10ef7d3b-f5d0-4430-813d-2f68d8289303",
+        "10ef7d3b-f5d0-4430-813d-2f68d8289303@6c48a",
+        "10ef7d3b-f5d0-4430-813d-2f68d8289303@f9941",
+        "12ccf59e-15a4-40a5-9329-f335cd75f07f",
+        "12ccf59e-15a4-40a5-9329-f335cd75f07f@6c48a",
+        "12ccf59e-15a4-40a5-9329-f335cd75f07f@f9941",
+        "141bccb1-7321-48dd-b20f-4568ee225349@111ab",
+        "141bccb1-7321-48dd-b20f-4568ee225349@17464",
+        "141bccb1-7321-48dd-b20f-4568ee225349@53291",
+        "172bb2d1-b727-4830-8482-75e7cfede35b",
+        "172bb2d1-b727-4830-8482-75e7cfede35b@6c48a",
+        "172bb2d1-b727-4830-8482-75e7cfede35b@f9941",
+        "184c163e-f180-4ad1-b2f1-188c1a1b03df@00477",
+        "184c163e-f180-4ad1-b2f1-188c1a1b03df@6582c",
+        "184c163e-f180-4ad1-b2f1-188c1a1b03df@7d6ab",
+        "184c163e-f180-4ad1-b2f1-188c1a1b03df@83472",
+        "193c387f-b46b-4e5b-90fb-4a05077fd30a",
+        "193c387f-b46b-4e5b-90fb-4a05077fd30a@6c48a",
+        "193c387f-b46b-4e5b-90fb-4a05077fd30a@f9941",
+        "1a0f8f52-1d6c-4ee6-b152-322490ee530e",
+        "1a0f8f52-1d6c-4ee6-b152-322490ee530e@6c48a",
+        "1a0f8f52-1d6c-4ee6-b152-322490ee530e@f9941",
+        "1e20a1a8-8f8e-4d3e-9358-edfcd780bd2c",
+        "1f177d73-b589-4aee-8cb1-1fe1731c394a",
+        "1f177d73-b589-4aee-8cb1-1fe1731c394a@6c48a",
+        "1f177d73-b589-4aee-8cb1-1fe1731c394a@f9941",
+        "1fa42dfd-b7ac-4791-9812-7f1cf6b3f701",
+        "1fa42dfd-b7ac-4791-9812-7f1cf6b3f701@6c48a",
+        "1fa42dfd-b7ac-4791-9812-7f1cf6b3f701@f9941",
+        "2071ab1b-5c3c-4e75-91d8-eb02060299be@7d6ab",
+        "2071ab1b-5c3c-4e75-91d8-eb02060299be@83472",
+        "2071ab1b-5c3c-4e75-91d8-eb02060299be@afb3e",
+        "2071ab1b-5c3c-4e75-91d8-eb02060299be@d5792",
+        "21c03f4f-52fa-4bd1-ae21-0d3cd91fafcc",
+        "21c03f4f-52fa-4bd1-ae21-0d3cd91fafcc@6c48a",
+        "21c03f4f-52fa-4bd1-ae21-0d3cd91fafcc@f9941",
+        "257f43e9-33b9-42c3-bc75-2128dfed01bd@14192",
+        "257f43e9-33b9-42c3-bc75-2128dfed01bd@3fdbc",
+        "257f43e9-33b9-42c3-bc75-2128dfed01bd@c9736",
+        "257f43e9-33b9-42c3-bc75-2128dfed01bd@d8c69",
+        "2589d156-d383-4c47-9acf-0b9618041a98@7d6ab",
+        "2589d156-d383-4c47-9acf-0b9618041a98@83472",
+        "2589d156-d383-4c47-9acf-0b9618041a98@c8f6a",
+        "2589d156-d383-4c47-9acf-0b9618041a98@cb600",
+        "277da579-b20c-45fe-8d27-c52d14abc1a2@13964",
+        "277da579-b20c-45fe-8d27-c52d14abc1a2@641c8",
+        "277da579-b20c-45fe-8d27-c52d14abc1a2@7d6ab",
+        "277da579-b20c-45fe-8d27-c52d14abc1a2@83472",
+        "27b65a15-487d-4ae2-87b0-3c6f5bf51bcf",
+        "27b65a15-487d-4ae2-87b0-3c6f5bf51bcf@6c48a",
+        "27b65a15-487d-4ae2-87b0-3c6f5bf51bcf@f9941",
+        "2de305d2-f3af-4fb1-90ca-8e32cdfd3420@20cc0",
+        "2de305d2-f3af-4fb1-90ca-8e32cdfd3420@7d6ab",
+        "2de305d2-f3af-4fb1-90ca-8e32cdfd3420@83472",
+        "2de305d2-f3af-4fb1-90ca-8e32cdfd3420@df632",
+        "30fd0b0a-b89b-4de5-9ede-a1a8c4405ae2",
+        "30fd0b0a-b89b-4de5-9ede-a1a8c4405ae2@6c48a",
+        "311ffeac-61c8-41a4-b6b0-24ad2c5ccb47@7cb49",
+        "311ffeac-61c8-41a4-b6b0-24ad2c5ccb47@7d6ab",
+        "311ffeac-61c8-41a4-b6b0-24ad2c5ccb47@83472",
+        "311ffeac-61c8-41a4-b6b0-24ad2c5ccb47@88454",
+        "338f0e15-b194-41ee-bbd1-8118f1bb68b3",
+        "338f0e15-b194-41ee-bbd1-8118f1bb68b3@6c48a",
+        "338f0e15-b194-41ee-bbd1-8118f1bb68b3@f9941",
+        "356cce2a-6a48-4f24-bd0e-fbc4b7b7fe1c",
+        "356cce2a-6a48-4f24-bd0e-fbc4b7b7fe1c@f9941",
+        "36852b6b-5a37-4585-baee-cf3db1d3c066",
+        "37a5a588-46ab-493e-8a45-9117512b7737",
+        "39410b50-8f31-40d2-9315-e1dcbe34ed8e@29e0d",
+        "39410b50-8f31-40d2-9315-e1dcbe34ed8e@57eb5",
+        "39410b50-8f31-40d2-9315-e1dcbe34ed8e@70daf",
+        "39410b50-8f31-40d2-9315-e1dcbe34ed8e@dce60",
+        "3a7357dd-2a24-483a-bf71-dd90f8c65cee",
+        "3a7357dd-2a24-483a-bf71-dd90f8c65cee@6c48a",
+        "3a7357dd-2a24-483a-bf71-dd90f8c65cee@f9941",
+        "3a913b4d-2277-4f6c-8028-7cbfd04f00af@0bf05",
+        "3a913b4d-2277-4f6c-8028-7cbfd04f00af@7d6ab",
+        "3a913b4d-2277-4f6c-8028-7cbfd04f00af@83472",
+        "3a913b4d-2277-4f6c-8028-7cbfd04f00af@fef4d",
+        "3ae55be3-e11e-4a10-a81b-d7a86d159329",
+        "3aebfcd6-17ca-458b-9061-8873735fba65",
+        "3aebfcd6-17ca-458b-9061-8873735fba65@6c48a",
+        "3aebfcd6-17ca-458b-9061-8873735fba65@f9941",
+        "3bf8b081-3595-4649-ad2e-2e3a12d6d409@29e0d",
+        "3bf8b081-3595-4649-ad2e-2e3a12d6d409@3cddf",
+        "3bf8b081-3595-4649-ad2e-2e3a12d6d409@57eb5",
+        "3bf8b081-3595-4649-ad2e-2e3a12d6d409@cc952",
+        "3eb01d50-700a-45d4-b1bb-07cee4e4be1f",
+        "412fca1c-f74c-475a-9465-46b1dab56086@0e993",
+        "412fca1c-f74c-475a-9465-46b1dab56086@28a9c",
+        "412fca1c-f74c-475a-9465-46b1dab56086@7d6ab",
+        "412fca1c-f74c-475a-9465-46b1dab56086@83472",
+        "412fca1c-f74c-475a-9465-46b1dab56086@b9350",
+        "41bf6ac4-e4bf-4ffa-8c61-a85be6c32100",
+        "430c27eb-c460-4380-a1f3-4c9f4a26519a",
+        "45bf4c6d-2d2b-41ca-a3b9-276beb193ccc",
+        "46b9508c-7d69-4747-9086-fbd54160d1d7@a8efa",
+        "46b9508c-7d69-4747-9086-fbd54160d1d7@b26dd",
+        "4734413a-3aed-4264-981a-2e3b919e7f62@7cc4d",
+        "4734413a-3aed-4264-981a-2e3b919e7f62@7d6ab",
+        "4734413a-3aed-4264-981a-2e3b919e7f62@83472",
+        "4734413a-3aed-4264-981a-2e3b919e7f62@f3cf6",
+        "489fbe58-5d88-4f2d-ba8d-7730a83a5934@69cdc",
+        "489fbe58-5d88-4f2d-ba8d-7730a83a5934@7d6ab",
+        "489fbe58-5d88-4f2d-ba8d-7730a83a5934@83472",
+        "489fbe58-5d88-4f2d-ba8d-7730a83a5934@fcf73",
+        "49b0b888-879f-454e-8182-6390f6ae0ad8@0b1a2",
+        "49b0b888-879f-454e-8182-6390f6ae0ad8@7d6ab",
+        "49b0b888-879f-454e-8182-6390f6ae0ad8@83472",
+        "49b0b888-879f-454e-8182-6390f6ae0ad8@a7dd4",
+        "4a8ca298-48de-45ce-95ae-73a3069a8ead@39b56",
+        "4a8ca298-48de-45ce-95ae-73a3069a8ead@60e90",
+        "4a8ca298-48de-45ce-95ae-73a3069a8ead@7d6ab",
+        "4a8ca298-48de-45ce-95ae-73a3069a8ead@83472",
+        "4af72f80-b20b-49dc-a6a3-c31b8a3b2a1c@1aed9",
+        "4af72f80-b20b-49dc-a6a3-c31b8a3b2a1c@29e0d",
+        "4af72f80-b20b-49dc-a6a3-c31b8a3b2a1c@57eb5",
+        "4af72f80-b20b-49dc-a6a3-c31b8a3b2a1c@be137",
+        "4d9e46f0-22d1-423c-a6c7-5a581c5a4ca2",
+        "4ddb0c41-b0a4-4a3b-999a-d2a2563e9b82",
+        "4ddb0c41-b0a4-4a3b-999a-d2a2563e9b82@6c48a",
+        "4ddb0c41-b0a4-4a3b-999a-d2a2563e9b82@f9941",
+        "4ea3945c-f390-4ec7-bd26-30dc52753289@6964a",
+        "4ea3945c-f390-4ec7-bd26-30dc52753289@7d6ab",
+        "4ea3945c-f390-4ec7-bd26-30dc52753289@83472",
+        "4ea3945c-f390-4ec7-bd26-30dc52753289@959ad",
+        "4f9a869d-ee9d-49b2-a3cd-9bd321641472@0c438",
+        "4f9a869d-ee9d-49b2-a3cd-9bd321641472@7d6ab",
+        "4f9a869d-ee9d-49b2-a3cd-9bd321641472@8342f",
+        "4f9a869d-ee9d-49b2-a3cd-9bd321641472@83472",
+        "4f9a869d-ee9d-49b2-a3cd-9bd321641472@c0d43",
+        "5011d23a-fd8e-4af7-a80b-feceb55e3ac3@29e0d",
+        "5011d23a-fd8e-4af7-a80b-feceb55e3ac3@3d924",
+        "5011d23a-fd8e-4af7-a80b-feceb55e3ac3@57eb5",
+        "5011d23a-fd8e-4af7-a80b-feceb55e3ac3@5b44a",
+        "50a75f84-2cee-4ecf-84ff-934477ed306c",
+        "50c5cd23-e663-41ea-bf00-ff36fa983667",
+        "511126cd-b214-47a6-808d-2e04a9d10133",
+        "5560ea81-7bbc-4c86-9366-edff8f7a454d",
+        "5560ea81-7bbc-4c86-9366-edff8f7a454d@6c48a",
+        "5560ea81-7bbc-4c86-9366-edff8f7a454d@f9941",
+        "55d1d5ff-973a-4777-98be-937d34e25bd9@7d6ab",
+        "55d1d5ff-973a-4777-98be-937d34e25bd9@83472",
+        "55d1d5ff-973a-4777-98be-937d34e25bd9@d2f98",
+        "55d1d5ff-973a-4777-98be-937d34e25bd9@ec14f",
+        "56d41fa6-66c9-43ae-81e0-7f34c8218314",
+        "56d41fa6-66c9-43ae-81e0-7f34c8218314@6c48a",
+        "56d41fa6-66c9-43ae-81e0-7f34c8218314@f9941",
+        "56ef0982-1dcc-4c23-8d19-271e1ca07dac",
+        "56ef0982-1dcc-4c23-8d19-271e1ca07dac@6c48a",
+        "56ef0982-1dcc-4c23-8d19-271e1ca07dac@f9941",
+        "5939cfc2-27a4-46b4-a585-5942383a40c0",
+        "5939cfc2-27a4-46b4-a585-5942383a40c0@6c48a",
+        "5939cfc2-27a4-46b4-a585-5942383a40c0@f9941",
+        "59abb1a8-363a-4302-b459-162ac28fbb1f",
+        "59abb1a8-363a-4302-b459-162ac28fbb1f@6c48a",
+        "59abb1a8-363a-4302-b459-162ac28fbb1f@f9941",
+        "5a45350c-a929-4bfe-a308-e96adf3a871f@29e0d",
+        "5a45350c-a929-4bfe-a308-e96adf3a871f@2f0d0",
+        "5a45350c-a929-4bfe-a308-e96adf3a871f@57eb5",
+        "5a45350c-a929-4bfe-a308-e96adf3a871f@ae2a4",
+        "5a793beb-1c8b-4dc4-ad05-aeee6671df55",
+        "5a793beb-1c8b-4dc4-ad05-aeee6671df55@6c48a",
+        "5a793beb-1c8b-4dc4-ad05-aeee6671df55@f9941",
+        "5ed3aa8b-3b7c-4ae6-aa6c-684fc06dd7b4",
+        "5f1bfafa-8b67-448f-8be8-55668180965d@4f476",
+        "5f1bfafa-8b67-448f-8be8-55668180965d@772ff",
+        "5f1bfafa-8b67-448f-8be8-55668180965d@7d6ab",
+        "5f1bfafa-8b67-448f-8be8-55668180965d@83472",
+        "5fb1decd-faf0-44e4-9c15-2bd93cc11267",
+        "610da71b-6e8d-467b-91f2-ec45eccc0e03@7d6ab",
+        "610da71b-6e8d-467b-91f2-ec45eccc0e03@83472",
+        "610da71b-6e8d-467b-91f2-ec45eccc0e03@a6724",
+        "610da71b-6e8d-467b-91f2-ec45eccc0e03@c75ab",
+        "61c9d1e1-d93b-43f0-a990-f3e03e1623e3",
+        "61dafb66-e2fe-4045-b7a1-bf284f7188a7",
+        "61dafb66-e2fe-4045-b7a1-bf284f7188a7@6c48a",
+        "61dafb66-e2fe-4045-b7a1-bf284f7188a7@f9941",
+        "62ee57b1-bcbf-428b-9264-fb60ab447991",
+        "62ee57b1-bcbf-428b-9264-fb60ab447991@6c48a",
+        "62ee57b1-bcbf-428b-9264-fb60ab447991@f9941",
+        "637c9b58-e177-4ca0-8e5b-8990e6fe8760",
+        "637c9b58-e177-4ca0-8e5b-8990e6fe8760@6c48a",
+        "637c9b58-e177-4ca0-8e5b-8990e6fe8760@f9941",
+        "63fee5ad-604a-4a7b-898e-1b35800c016d@29e0d",
+        "63fee5ad-604a-4a7b-898e-1b35800c016d@57eb5",
+        "63fee5ad-604a-4a7b-898e-1b35800c016d@709ec",
+        "63fee5ad-604a-4a7b-898e-1b35800c016d@ef5f2",
+        "64f62fb5-2941-494d-ac7e-9abc0d6c3502@0d4f9",
+        "64f62fb5-2941-494d-ac7e-9abc0d6c3502@1d15b",
+        "64f62fb5-2941-494d-ac7e-9abc0d6c3502@7d6ab",
+        "64f62fb5-2941-494d-ac7e-9abc0d6c3502@83472",
+        "66fbb2d2-9b34-41bf-aaed-2d1ee02e43a5@2054e",
+        "66fbb2d2-9b34-41bf-aaed-2d1ee02e43a5@29e0d",
+        "66fbb2d2-9b34-41bf-aaed-2d1ee02e43a5@57eb5",
+        "66fbb2d2-9b34-41bf-aaed-2d1ee02e43a5@bb8ad",
+        "67db095d-d36e-4924-b638-6e2a72dd3c23@29e0d",
+        "67db095d-d36e-4924-b638-6e2a72dd3c23@2a339",
+        "67db095d-d36e-4924-b638-6e2a72dd3c23@57eb5",
+        "67db095d-d36e-4924-b638-6e2a72dd3c23@75ccf",
+        "696f4249-2773-479a-97ec-272d79185f1a@186bd",
+        "696f4249-2773-479a-97ec-272d79185f1a@7d6ab",
+        "696f4249-2773-479a-97ec-272d79185f1a@83472",
+        "696f4249-2773-479a-97ec-272d79185f1a@db428",
+        "6adefc36-97d2-4704-b16b-e616def4b81d",
+        "6adefc36-97d2-4704-b16b-e616def4b81d@6c48a",
+        "6adefc36-97d2-4704-b16b-e616def4b81d@f9941",
+        "6c17e287-caa5-4c89-993e-135d6b2a35d7@239c2",
+        "6c17e287-caa5-4c89-993e-135d6b2a35d7@32c5d",
+        "6c17e287-caa5-4c89-993e-135d6b2a35d7@7d6ab",
+        "6c17e287-caa5-4c89-993e-135d6b2a35d7@83472",
+        "6cc526ce-ba0f-4d36-ba25-0a106d5c970a@17464",
+        "6cc526ce-ba0f-4d36-ba25-0a106d5c970a@4f7eb",
+        "6cc526ce-ba0f-4d36-ba25-0a106d5c970a@89988",
+        "6dc53edf-c80e-4fe3-ad10-d547dc13b2db@7d6ab",
+        "6dc53edf-c80e-4fe3-ad10-d547dc13b2db@83472",
+        "6dc53edf-c80e-4fe3-ad10-d547dc13b2db@ba6ad",
+        "6dc53edf-c80e-4fe3-ad10-d547dc13b2db@e6184",
+        "6ef1defe-7997-477a-9b35-c18859ff8066",
+        "6ff5872b-95eb-4346-b96d-b15883eb8d2c@7d6ab",
+        "6ff5872b-95eb-4346-b96d-b15883eb8d2c@83472",
+        "6ff5872b-95eb-4346-b96d-b15883eb8d2c@888b1",
+        "6ff5872b-95eb-4346-b96d-b15883eb8d2c@d841a",
+        "71aa083c-48e8-4e75-b6f8-853fa22f7e87@08c68",
+        "71aa083c-48e8-4e75-b6f8-853fa22f7e87@a5a37",
+        "722ab53e-65b4-49dc-9d56-8d0c2e337ca1@50cd0",
+        "722ab53e-65b4-49dc-9d56-8d0c2e337ca1@55a86",
+        "722ab53e-65b4-49dc-9d56-8d0c2e337ca1@7d6ab",
+        "722ab53e-65b4-49dc-9d56-8d0c2e337ca1@82d4b",
+        "722ab53e-65b4-49dc-9d56-8d0c2e337ca1@83472",
+        "774e2e9e-1329-4ed7-8927-45481e2b58f5",
+        "774e2e9e-1329-4ed7-8927-45481e2b58f5@6c48a",
+        "774e2e9e-1329-4ed7-8927-45481e2b58f5@f9941",
+        "78465a4d-2a60-42d6-92fd-55091089a02e@29e0d",
+        "78465a4d-2a60-42d6-92fd-55091089a02e@55fbc",
+        "78465a4d-2a60-42d6-92fd-55091089a02e@57eb5",
+        "78465a4d-2a60-42d6-92fd-55091089a02e@c0397",
+        "785c8fba-4b5f-41ec-af7d-996b27ce8edb@178c6",
+        "785c8fba-4b5f-41ec-af7d-996b27ce8edb@7d6ab",
+        "785c8fba-4b5f-41ec-af7d-996b27ce8edb@83472",
+        "785c8fba-4b5f-41ec-af7d-996b27ce8edb@f7c6e",
+        "793814e3-4a0c-489f-8281-25803053b5f5@17464",
+        "793814e3-4a0c-489f-8281-25803053b5f5@3fdbc",
+        "793814e3-4a0c-489f-8281-25803053b5f5@c3bc7",
+        "793814e3-4a0c-489f-8281-25803053b5f5@d8c69",
+        "793814e3-4a0c-489f-8281-25803053b5f5@edc28",
+        "79c9a870-7b5e-4ad8-8104-ef8fb950c029@29e0d",
+        "79c9a870-7b5e-4ad8-8104-ef8fb950c029@41e61",
+        "79c9a870-7b5e-4ad8-8104-ef8fb950c029@57eb5",
+        "79c9a870-7b5e-4ad8-8104-ef8fb950c029@a2f86",
+        "79dbd11d-141d-4a1b-badb-460e2fd49885",
+        "79dbd11d-141d-4a1b-badb-460e2fd49885@6c48a",
+        "79dbd11d-141d-4a1b-badb-460e2fd49885@f9941",
+        "7b444958-770d-4c17-9cb3-77334e5bfd74",
+        "7bc998cc-8f2c-464c-9574-e57295542ef6",
+        "81458ceb-92a3-4dae-a4ca-8085d0099f96",
+        "81458ceb-92a3-4dae-a4ca-8085d0099f96@6c48a",
+        "81458ceb-92a3-4dae-a4ca-8085d0099f96@f9941",
+        "84a0b865-0275-47fc-9fe4-0f03925a316c",
+        "84a0b865-0275-47fc-9fe4-0f03925a316c@6c48a",
+        "84a0b865-0275-47fc-9fe4-0f03925a316c@f9941",
+        "86328694-94e9-4c53-ae53-db4cfb2c7a56",
+        "86328694-94e9-4c53-ae53-db4cfb2c7a56@6c48a",
+        "86328694-94e9-4c53-ae53-db4cfb2c7a56@f9941",
+        "8a74fa24-f4ce-4179-a163-9a147d38916e@74cdc",
+        "8a74fa24-f4ce-4179-a163-9a147d38916e@7d6ab",
+        "8a74fa24-f4ce-4179-a163-9a147d38916e@83472",
+        "8a74fa24-f4ce-4179-a163-9a147d38916e@c85ba",
+        "8c5e4d68-585b-401c-9f9a-c17ca02cbdc2@7d6ab",
+        "8c5e4d68-585b-401c-9f9a-c17ca02cbdc2@83472",
+        "8c5e4d68-585b-401c-9f9a-c17ca02cbdc2@c0096",
+        "8c5e4d68-585b-401c-9f9a-c17ca02cbdc2@d11ff",
+        "8da936f3-c753-43b1-9397-5311bda2aedb",
+        "8da936f3-c753-43b1-9397-5311bda2aedb@6c48a",
+        "8da936f3-c753-43b1-9397-5311bda2aedb@f9941",
+        "8df682ab-aa9d-44cd-ad73-b072e560b38a",
+        "8df682ab-aa9d-44cd-ad73-b072e560b38a@6c48a",
+        "8df682ab-aa9d-44cd-ad73-b072e560b38a@f9941",
+        "8df90620-cb7f-4492-b1c1-dc3fce6bd3b8@4469f",
+        "8df90620-cb7f-4492-b1c1-dc3fce6bd3b8@7d6ab",
+        "8df90620-cb7f-4492-b1c1-dc3fce6bd3b8@83472",
+        "8df90620-cb7f-4492-b1c1-dc3fce6bd3b8@e203b",
+        "91969964-2b15-452c-89c0-617d92470b5d",
+        "91fb97be-e779-4f88-8c3e-6763c9e65fd1@1d1f6",
+        "91fb97be-e779-4f88-8c3e-6763c9e65fd1@7d6ab",
+        "91fb97be-e779-4f88-8c3e-6763c9e65fd1@83472",
+        "91fb97be-e779-4f88-8c3e-6763c9e65fd1@8e1bb",
+        "92ad1d47-93aa-4cca-8727-4ebf44a041a5",
+        "96586139-d0e7-469c-89ac-f8e0bc2e0cd5@17464",
+        "96586139-d0e7-469c-89ac-f8e0bc2e0cd5@23831",
+        "96586139-d0e7-469c-89ac-f8e0bc2e0cd5@3fdbc",
+        "96586139-d0e7-469c-89ac-f8e0bc2e0cd5@d8c69",
+        "96586139-d0e7-469c-89ac-f8e0bc2e0cd5@f7d13",
+        "96cdff4b-d77c-4f88-867d-3862d4df285f",
+        "96cdff4b-d77c-4f88-867d-3862d4df285f@f9941",
+        "97df5e12-28a7-41b4-91eb-fa99dfd54cd2",
+        "97df5e12-28a7-41b4-91eb-fa99dfd54cd2@6c48a",
+        "9a1c8ef7-e098-4cbb-9448-b0cf7f56bb98@29e0d",
+        "9a1c8ef7-e098-4cbb-9448-b0cf7f56bb98@57eb5",
+        "9a1c8ef7-e098-4cbb-9448-b0cf7f56bb98@8688b",
+        "9a1c8ef7-e098-4cbb-9448-b0cf7f56bb98@967f4",
+        "9c9d30f5-7c2a-40a0-a2b8-03c416e08402",
+        "9c9d30f5-7c2a-40a0-a2b8-03c416e08402@6c48a",
+        "9c9d30f5-7c2a-40a0-a2b8-03c416e08402@f9941",
+        "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@17464",
+        "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@1f97b",
+        "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@3cf4b",
+        "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@3fdbc",
+        "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@935df",
+        "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@9e51f",
+        "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@bb449",
+        "9df00641-1a58-449d-a55f-9403b018e211@1bb49",
+        "9df00641-1a58-449d-a55f-9403b018e211@2d196",
+        "9df00641-1a58-449d-a55f-9403b018e211@5c8c6",
+        "9df00641-1a58-449d-a55f-9403b018e211@7d6ab",
+        "9df00641-1a58-449d-a55f-9403b018e211@83472",
+        "9df00641-1a58-449d-a55f-9403b018e211@d6d41",
+        "a0aac948-c985-4fc0-8214-e6111c245e39",
+        "a0aac948-c985-4fc0-8214-e6111c245e39@6c48a",
+        "a0aac948-c985-4fc0-8214-e6111c245e39@f9941",
+        "a0f55f03-39e8-4497-b199-88c5317d285d@13a2f",
+        "a0f55f03-39e8-4497-b199-88c5317d285d@14732",
+        "a0f55f03-39e8-4497-b199-88c5317d285d@5a95a",
+        "a0f55f03-39e8-4497-b199-88c5317d285d@7d6ab",
+        "a0f55f03-39e8-4497-b199-88c5317d285d@83472",
+        "a0f55f03-39e8-4497-b199-88c5317d285d@de43a",
+        "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+        "a6afc0f3-df48-43d2-84b6-22db8f7c4666",
+        "a90eab0a-2f4f-462f-a0f2-573c7d22b0af@4d48f",
+        "a90eab0a-2f4f-462f-a0f2-573c7d22b0af@7d6ab",
+        "a90eab0a-2f4f-462f-a0f2-573c7d22b0af@83472",
+        "a90eab0a-2f4f-462f-a0f2-573c7d22b0af@84f08",
+        "a90eab0a-2f4f-462f-a0f2-573c7d22b0af@dbf07",
+        "a90eab0a-2f4f-462f-a0f2-573c7d22b0af@dec1a",
+        "acf542bd-2020-4cac-bc2b-b9652ec89265",
+        "ad325419-5b45-4136-b80b-c4d7820e07ec",
+        "ad325419-5b45-4136-b80b-c4d7820e07ec@6c48a",
+        "ad325419-5b45-4136-b80b-c4d7820e07ec@f9941",
+        "ae18160e-79ba-4c85-a0b3-2a1393c521a2",
+        "ae18160e-79ba-4c85-a0b3-2a1393c521a2@6c48a",
+        "ae18160e-79ba-4c85-a0b3-2a1393c521a2@f9941",
+        "af8577f3-baee-4506-bfe6-0260935e103f@17464",
+        "af8577f3-baee-4506-bfe6-0260935e103f@7fb43",
+        "af8577f3-baee-4506-bfe6-0260935e103f@d65f3",
+        "afb68614-d0f0-4c63-a3f2-7a687dd9ef39",
+        "afb68614-d0f0-4c63-a3f2-7a687dd9ef39@6c48a",
+        "afb68614-d0f0-4c63-a3f2-7a687dd9ef39@f9941",
+        "b2bf3d5c-217c-446a-8820-9fe099ebcdf0",
+        "b2bf3d5c-217c-446a-8820-9fe099ebcdf0@6c48a",
+        "b2bf3d5c-217c-446a-8820-9fe099ebcdf0@f9941",
+        "b4be75fe-f250-46b7-99e4-dfc7bf2c053b",
+        "b4be75fe-f250-46b7-99e4-dfc7bf2c053b@6c48a",
+        "b4be75fe-f250-46b7-99e4-dfc7bf2c053b@f9941",
+        "b533a48b-0d75-451f-8b94-e6d8e8f3ee2f@034d2",
+        "b533a48b-0d75-451f-8b94-e6d8e8f3ee2f@7d6ab",
+        "b533a48b-0d75-451f-8b94-e6d8e8f3ee2f@83472",
+        "b533a48b-0d75-451f-8b94-e6d8e8f3ee2f@93762",
+        "b5c28b4f-791f-4d68-afaa-7d7559a1ab63",
+        "b5c28b4f-791f-4d68-afaa-7d7559a1ab63@6c48a",
+        "b5c28b4f-791f-4d68-afaa-7d7559a1ab63@f9941",
+        "b7b3291d-9cf6-479c-8bfb-65425b705fc0",
+        "b7b3291d-9cf6-479c-8bfb-65425b705fc0@6c48a",
+        "b7b3291d-9cf6-479c-8bfb-65425b705fc0@f9941",
+        "bb2453c1-2164-4116-8a00-89cde9136dfb@00842",
+        "bb2453c1-2164-4116-8a00-89cde9136dfb@7d6ab",
+        "bb2453c1-2164-4116-8a00-89cde9136dfb@83472",
+        "bb2453c1-2164-4116-8a00-89cde9136dfb@ba2ce",
+        "bb2453c1-2164-4116-8a00-89cde9136dfb@beb25",
+        "bb2453c1-2164-4116-8a00-89cde9136dfb@e0fd9",
+        "c17dc156-6e08-49b2-8984-35bdaf3d619f",
+        "c17dc156-6e08-49b2-8984-35bdaf3d619f@6c48a",
+        "c17dc156-6e08-49b2-8984-35bdaf3d619f@f9941",
+        "c3c60629-ae18-4eb3-aab7-60fc81a7ec2d@07c7f",
+        "c3c60629-ae18-4eb3-aab7-60fc81a7ec2d@7d6ab",
+        "c3c60629-ae18-4eb3-aab7-60fc81a7ec2d@83472",
+        "c3c60629-ae18-4eb3-aab7-60fc81a7ec2d@911cf",
+        "c498f0aa-4aa4-4b2a-95c2-435ea4947a2b",
+        "c67357aa-0b2b-4f21-99cd-caeb26ca076b",
+        "c67357aa-0b2b-4f21-99cd-caeb26ca076b@6c48a",
+        "c67357aa-0b2b-4f21-99cd-caeb26ca076b@f9941",
+        "c9b7c5ee-cbb1-4934-8fa9-d60def76319e",
+        "c9c5d7a1-8099-4f41-b14c-232cc9888939",
+        "c9c5d7a1-8099-4f41-b14c-232cc9888939@6c48a",
+        "c9c5d7a1-8099-4f41-b14c-232cc9888939@f9941",
+        "ca7f79fa-c1c5-432b-a0e7-281047f86c42",
+        "cab129ce-55d5-44fa-ac5d-949459c43dcd@29e0d",
+        "cab129ce-55d5-44fa-ac5d-949459c43dcd@57eb5",
+        "cab129ce-55d5-44fa-ac5d-949459c43dcd@6699d",
+        "cab129ce-55d5-44fa-ac5d-949459c43dcd@b5c11",
+        "cd5b1005-30b4-4dbb-8337-14605bb7b87d@114bf",
+        "cd5b1005-30b4-4dbb-8337-14605bb7b87d@17464",
+        "cd5b1005-30b4-4dbb-8337-14605bb7b87d@3fdbc",
+        "cd5b1005-30b4-4dbb-8337-14605bb7b87d@47f98",
+        "cd5b1005-30b4-4dbb-8337-14605bb7b87d@9f269",
+        "cd5b1005-30b4-4dbb-8337-14605bb7b87d@d8c69",
+        "d0781114-570b-427b-aa07-d5a576330515@09ad3",
+        "d0781114-570b-427b-aa07-d5a576330515@52aff",
+        "d0803b29-0ce0-4a87-bfe5-e71bea4b3633",
+        "d0803b29-0ce0-4a87-bfe5-e71bea4b3633@6c48a",
+        "d0803b29-0ce0-4a87-bfe5-e71bea4b3633@f9941",
+        "d0917fe0-1e20-4cdb-b55d-e70b04bb6471",
+        "d0b16bd1-7b94-4599-aefe-9adc1dd57be5@3dfe1",
+        "d0b16bd1-7b94-4599-aefe-9adc1dd57be5@45fc0",
+        "d0b16bd1-7b94-4599-aefe-9adc1dd57be5@7d6ab",
+        "d0b16bd1-7b94-4599-aefe-9adc1dd57be5@83472",
+        "d3a667b1-e296-48de-bcc3-31cd6cc38c52@29e0d",
+        "d3a667b1-e296-48de-bcc3-31cd6cc38c52@57eb5",
+        "d3a667b1-e296-48de-bcc3-31cd6cc38c52@61332",
+        "d3a667b1-e296-48de-bcc3-31cd6cc38c52@97e10",
+        "d4495cff-0acb-4ad6-a768-45398dc01f28@7d6ab",
+        "d4495cff-0acb-4ad6-a768-45398dc01f28@83472",
+        "d4495cff-0acb-4ad6-a768-45398dc01f28@8b046",
+        "d4495cff-0acb-4ad6-a768-45398dc01f28@b905c",
+        "d4c2d6c8-abad-46d8-a42d-e80c4c7dc9d5@5a651",
+        "d4c2d6c8-abad-46d8-a42d-e80c4c7dc9d5@7433f",
+        "d4c2d6c8-abad-46d8-a42d-e80c4c7dc9d5@7d6ab",
+        "d4c2d6c8-abad-46d8-a42d-e80c4c7dc9d5@83472",
+        "d505cfc9-25d1-481c-b117-86a4c677d22b@3cee1",
+        "d505cfc9-25d1-481c-b117-86a4c677d22b@7d6ab",
+        "d505cfc9-25d1-481c-b117-86a4c677d22b@83472",
+        "d505cfc9-25d1-481c-b117-86a4c677d22b@c5abc",
+        "d75905c0-f3b4-4d8a-91df-0af099f80c89@5fbf0",
+        "d75905c0-f3b4-4d8a-91df-0af099f80c89@7d6ab",
+        "d75905c0-f3b4-4d8a-91df-0af099f80c89@83472",
+        "d75905c0-f3b4-4d8a-91df-0af099f80c89@eb1b4",
+        "d7847476-873c-4bae-b3a6-0125e7fc3d42",
+        "d7847476-873c-4bae-b3a6-0125e7fc3d42@6c48a",
+        "d7847476-873c-4bae-b3a6-0125e7fc3d42@f9941",
+        "d90240db-6f3d-40a3-a382-34a7fcb624d1",
+        "d90240db-6f3d-40a3-a382-34a7fcb624d1@6c48a",
+        "d90240db-6f3d-40a3-a382-34a7fcb624d1@f9941",
+        "d9facf06-0816-496d-b8fd-b96830da0e19@18218",
+        "d9facf06-0816-496d-b8fd-b96830da0e19@2538b",
+        "d9facf06-0816-496d-b8fd-b96830da0e19@7d6ab",
+        "d9facf06-0816-496d-b8fd-b96830da0e19@83472",
+        "d9facf06-0816-496d-b8fd-b96830da0e19@a97d7",
+        "d9facf06-0816-496d-b8fd-b96830da0e19@c2df1",
+        "dbc0d695-7933-419e-bf0d-1ff2203133e9",
+        "dbc0d695-7933-419e-bf0d-1ff2203133e9@6c48a",
+        "dbc0d695-7933-419e-bf0d-1ff2203133e9@f9941",
+        "dbe85a21-e5e2-4e66-a5e4-65edf95b48c3@46d33",
+        "dbe85a21-e5e2-4e66-a5e4-65edf95b48c3@7d6ab",
+        "dbe85a21-e5e2-4e66-a5e4-65edf95b48c3@83472",
+        "dbe85a21-e5e2-4e66-a5e4-65edf95b48c3@c5005",
+        "e7124161-41a5-4c0f-9b90-5d6b27b1e6db@6c61e",
+        "e7124161-41a5-4c0f-9b90-5d6b27b1e6db@7d6ab",
+        "e7124161-41a5-4c0f-9b90-5d6b27b1e6db@83472",
+        "e7124161-41a5-4c0f-9b90-5d6b27b1e6db@ba56e",
+        "e7d3ea3e-08a5-44e5-9e07-47cf46b20d2f",
+        "e7d3ea3e-08a5-44e5-9e07-47cf46b20d2f@6c48a",
+        "e7d3ea3e-08a5-44e5-9e07-47cf46b20d2f@f9941",
+        "e9b41bc6-4fa6-4c3a-bcd0-076ca365a9fb@462d6",
+        "e9b41bc6-4fa6-4c3a-bcd0-076ca365a9fb@7d6ab",
+        "e9b41bc6-4fa6-4c3a-bcd0-076ca365a9fb@83472",
+        "e9b41bc6-4fa6-4c3a-bcd0-076ca365a9fb@98433",
+        "eb90f830-7c2a-49da-b76a-3ce45b10c5cc",
+        "eb90f830-7c2a-49da-b76a-3ce45b10c5cc@6c48a",
+        "eb90f830-7c2a-49da-b76a-3ce45b10c5cc@f9941",
+        "ebc3fc98-36b0-4285-83f2-8761f06eeb26",
+        "ebc3fc98-36b0-4285-83f2-8761f06eeb26@6c48a",
+        "ebc3fc98-36b0-4285-83f2-8761f06eeb26@f9941",
+        "edd118b1-08c5-44dc-a6c8-ebea43f8eeae@629ad",
+        "edd118b1-08c5-44dc-a6c8-ebea43f8eeae@6c7eb",
+        "edd118b1-08c5-44dc-a6c8-ebea43f8eeae@7d6ab",
+        "edd118b1-08c5-44dc-a6c8-ebea43f8eeae@83472",
+        "f01f58ee-01ce-4b96-9ed7-e8083dec9bcc",
+        "f01f58ee-01ce-4b96-9ed7-e8083dec9bcc@f9941",
+        "f1e8de35-7033-4ccb-b857-ef1d493f6100@19063",
+        "f1e8de35-7033-4ccb-b857-ef1d493f6100@2c7cc",
+        "f1e8de35-7033-4ccb-b857-ef1d493f6100@7d6ab",
+        "f1e8de35-7033-4ccb-b857-ef1d493f6100@83472",
+        "f1e8de35-7033-4ccb-b857-ef1d493f6100@aa6c7",
+        "f446b796-5fd8-4655-a466-8d7cb4bd7ba1@30f15",
+        "f446b796-5fd8-4655-a466-8d7cb4bd7ba1@531c0",
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "f6a75322-2560-4a74-8814-3d86b81379f8@1f5f0",
+        "f6a75322-2560-4a74-8814-3d86b81379f8@3cafa",
+        "f6a75322-2560-4a74-8814-3d86b81379f8@7d6ab",
+        "f6a75322-2560-4a74-8814-3d86b81379f8@83472",
+        "f6d6e1e6-879c-4bd3-9942-f11ea80709c5",
+        "f6d6e1e6-879c-4bd3-9942-f11ea80709c5@6c48a",
+        "f6d6e1e6-879c-4bd3-9942-f11ea80709c5@f9941",
+        "fa2fc54b-f117-41b2-ac1d-b17592dc1061",
+        "fa2fc54b-f117-41b2-ac1d-b17592dc1061@6c48a",
+        "fa2fc54b-f117-41b2-ac1d-b17592dc1061@f9941",
+        "fc757137-f35c-4139-9874-78d29d093360",
+        "fc757137-f35c-4139-9874-78d29d093360@6c48a",
+        "fc757137-f35c-4139-9874-78d29d093360@f9941",
+        "fd84a981-c350-46f1-b831-63e733429665",
+        "fd84a981-c350-46f1-b831-63e733429665@6c48a",
+        "fd84a981-c350-46f1-b831-63e733429665@f9941",
+        "fd8817f4-e6d2-4304-bfa7-dd29575f3a4d",
+        "fd8817f4-e6d2-4304-bfa7-dd29575f3a4d@6c48a",
+        "fd8817f4-e6d2-4304-bfa7-dd29575f3a4d@f9941",
+        "fdf5a4e5-7015-4641-9155-19e50214c8a5",
+        "fdf5a4e5-7015-4641-9155-19e50214c8a5@6c48a",
+        "fdf5a4e5-7015-4641-9155-19e50214c8a5@f9941"
+    ],
+    "paths": {
+        "acf542bd-2020-4cac-bc2b-b9652ec89265": [
+            "shaders/blur",
+            "cc.EffectAsset",
+            1
+        ],
+        "36852b6b-5a37-4585-baee-cf3db1d3c066": [
+            "shaders/shadow",
+            "cc.EffectAsset",
+            1
+        ],
+        "1089309a-b080-4fcb-b6ed-1cb2ef948b30": [
+            "shaders/water",
+            "cc.EffectAsset",
+            1
+        ],
+        "50a75f84-2cee-4ecf-84ff-934477ed306c": [
+            "fonts/Nunito-Bold",
+            "cc.TTFFont",
+            1
+        ],
+        "37a5a588-46ab-493e-8a45-9117512b7737": [
+            "fonts/Nunito-Regular",
+            "cc.TTFFont",
+            1
+        ],
+        "41bf6ac4-e4bf-4ffa-8c61-a85be6c32100": [
+            "materials/blackrock",
+            "cc.Material",
+            1
+        ],
+        "a6afc0f3-df48-43d2-84b6-22db8f7c4666": [
+            "materials/clay",
+            "cc.Material",
+            1
+        ],
+        "7b444958-770d-4c17-9cb3-77334e5bfd74": [
+            "materials/dirt",
+            "cc.Material",
+            1
+        ],
+        "c498f0aa-4aa4-4b2a-95c2-435ea4947a2b": [
+            "materials/grass",
+            "cc.Material",
+            1
+        ],
+        "5ed3aa8b-3b7c-4ae6-aa6c-684fc06dd7b4": [
+            "materials/medieval",
+            "cc.Material",
+            1
+        ],
+        "d0917fe0-1e20-4cdb-b55d-e70b04bb6471": [
+            "materials/rock",
+            "cc.Material",
+            1
+        ],
+        "ca7f79fa-c1c5-432b-a0e7-281047f86c42": [
+            "materials/sand",
+            "cc.Material",
+            1
+        ],
+        "430c27eb-c460-4380-a1f3-4c9f4a26519a": [
+            "materials/ui-shadow",
+            "cc.Material",
+            1
+        ],
+        "511126cd-b214-47a6-808d-2e04a9d10133": [
+            "materials/ui-sprite",
+            "cc.Material",
+            1
+        ],
+        "3ae55be3-e11e-4a10-a81b-d7a86d159329": [
+            "materials/ui-white-100",
+            "cc.Material",
+            1
+        ],
+        "50c5cd23-e663-41ea-bf00-ff36fa983667": [
+            "materials/ui-white-50",
+            "cc.Material",
+            1
+        ],
+        "61c9d1e1-d93b-43f0-a990-f3e03e1623e3": [
+            "materials/ui-white-70",
+            "cc.Material",
+            1
+        ],
+        "91969964-2b15-452c-89c0-617d92470b5d": [
+            "materials/water",
+            "cc.Material",
+            1
+        ],
+        "45bf4c6d-2d2b-41ca-a3b9-276beb193ccc": [
+            "materials/white",
+            "cc.Material",
+            1
+        ],
+        "356cce2a-6a48-4f24-bd0e-fbc4b7b7fe1c": [
+            "renderTextures/PhotoboothRT",
+            "cc.RenderTexture",
+            1
+        ],
+        "356cce2a-6a48-4f24-bd0e-fbc4b7b7fe1c@f9941": [
+            "renderTextures/PhotoboothRT/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f01f58ee-01ce-4b96-9ed7-e8083dec9bcc": [
+            "renderTextures/UiRT",
+            "cc.RenderTexture",
+            1
+        ],
+        "f01f58ee-01ce-4b96-9ed7-e8083dec9bcc@f9941": [
+            "renderTextures/UiRT/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "96cdff4b-d77c-4f88-867d-3862d4df285f": [
+            "renderTextures/UiShadowRT",
+            "cc.RenderTexture",
+            1
+        ],
+        "96cdff4b-d77c-4f88-867d-3862d4df285f@f9941": [
+            "renderTextures/UiShadowRT/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "3eb01d50-700a-45d4-b1bb-07cee4e4be1f": [
+            "templates/BuildCard",
+            "cc.Prefab",
+            1
+        ],
+        "5fb1decd-faf0-44e4-9c15-2bd93cc11267": [
+            "templates/BuildScreen",
+            "cc.Prefab",
+            1
+        ],
+        "4d9e46f0-22d1-423c-a6c7-5a581c5a4ca2": [
+            "templates/PauseScreen",
+            "cc.Prefab",
+            1
+        ],
+        "7bc998cc-8f2c-464c-9574-e57295542ef6": [
+            "templates/ResourceAmount",
+            "cc.Prefab",
+            1
+        ],
+        "92ad1d47-93aa-4cca-8727-4ebf44a041a5": [
+            "templates/ResourceCard",
+            "cc.Prefab",
+            1
+        ],
+        "1e20a1a8-8f8e-4d3e-9358-edfcd780bd2c": [
+            "templates/ResourcesScreen",
+            "cc.Prefab",
+            1
+        ],
+        "c9b7c5ee-cbb1-4934-8fa9-d60def76319e": [
+            "templates/WorldScreen",
+            "cc.Prefab",
+            1
+        ],
+        "257f43e9-33b9-42c3-bc75-2128dfed01bd@14192": [
+            "prefabs/biomes/forest/forest",
+            "cc.Prefab",
+            1
+        ],
+        "257f43e9-33b9-42c3-bc75-2128dfed01bd@c9736": [
+            "prefabs/biomes/forest/Cube.793",
+            "cc.Mesh",
+            1
+        ],
+        "257f43e9-33b9-42c3-bc75-2128dfed01bd@3fdbc": [
+            "prefabs/biomes/forest/BrownDark",
+            "cc.Material",
+            1
+        ],
+        "257f43e9-33b9-42c3-bc75-2128dfed01bd@d8c69": [
+            "prefabs/biomes/forest/GreenDark",
+            "cc.Material",
+            1
+        ],
+        "793814e3-4a0c-489f-8281-25803053b5f5@17464": [
+            "prefabs/biomes/forest_rocks_small/Stone",
+            "cc.Material",
+            1
+        ],
+        "793814e3-4a0c-489f-8281-25803053b5f5@edc28": [
+            "prefabs/biomes/forest_rocks_small/Cylinder.933",
+            "cc.Mesh",
+            1
+        ],
+        "793814e3-4a0c-489f-8281-25803053b5f5@d8c69": [
+            "prefabs/biomes/forest_rocks_small/GreenDark",
+            "cc.Material",
+            1
+        ],
+        "793814e3-4a0c-489f-8281-25803053b5f5@3fdbc": [
+            "prefabs/biomes/forest_rocks_small/BrownDark",
+            "cc.Material",
+            1
+        ],
+        "793814e3-4a0c-489f-8281-25803053b5f5@c3bc7": [
+            "prefabs/biomes/forest_rocks_small/forest_rocks_small",
+            "cc.Prefab",
+            1
+        ],
+        "96586139-d0e7-469c-89ac-f8e0bc2e0cd5@17464": [
+            "prefabs/biomes/forest_rocks_tiny/Stone",
+            "cc.Material",
+            1
+        ],
+        "96586139-d0e7-469c-89ac-f8e0bc2e0cd5@23831": [
+            "prefabs/biomes/forest_rocks_tiny/forest_rocks_tiny",
+            "cc.Prefab",
+            1
+        ],
+        "96586139-d0e7-469c-89ac-f8e0bc2e0cd5@f7d13": [
+            "prefabs/biomes/forest_rocks_tiny/Cylinder.934",
+            "cc.Mesh",
+            1
+        ],
+        "96586139-d0e7-469c-89ac-f8e0bc2e0cd5@d8c69": [
+            "prefabs/biomes/forest_rocks_tiny/GreenDark",
+            "cc.Material",
+            1
+        ],
+        "96586139-d0e7-469c-89ac-f8e0bc2e0cd5@3fdbc": [
+            "prefabs/biomes/forest_rocks_tiny/BrownDark",
+            "cc.Material",
+            1
+        ],
+        "30fd0b0a-b89b-4de5-9ede-a1a8c4405ae2": [
+            "prefabs/biomes/hexagons_medieval",
+            "cc.ImageAsset",
+            1
+        ],
+        "30fd0b0a-b89b-4de5-9ede-a1a8c4405ae2@6c48a": [
+            "prefabs/biomes/hexagons_medieval/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "cd5b1005-30b4-4dbb-8337-14605bb7b87d@17464": [
+            "prefabs/biomes/hill/Stone",
+            "cc.Material",
+            1
+        ],
+        "cd5b1005-30b4-4dbb-8337-14605bb7b87d@114bf": [
+            "prefabs/biomes/hill/Cylinder.935",
+            "cc.Mesh",
+            1
+        ],
+        "cd5b1005-30b4-4dbb-8337-14605bb7b87d@9f269": [
+            "prefabs/biomes/hill/Green",
+            "cc.Material",
+            1
+        ],
+        "cd5b1005-30b4-4dbb-8337-14605bb7b87d@3fdbc": [
+            "prefabs/biomes/hill/BrownDark",
+            "cc.Material",
+            1
+        ],
+        "cd5b1005-30b4-4dbb-8337-14605bb7b87d@d8c69": [
+            "prefabs/biomes/hill/GreenDark",
+            "cc.Material",
+            1
+        ],
+        "cd5b1005-30b4-4dbb-8337-14605bb7b87d@47f98": [
+            "prefabs/biomes/hill/hill",
+            "cc.Prefab",
+            1
+        ],
+        "af8577f3-baee-4506-bfe6-0260935e103f@17464": [
+            "prefabs/biomes/mountain/Stone",
+            "cc.Material",
+            1
+        ],
+        "af8577f3-baee-4506-bfe6-0260935e103f@7fb43": [
+            "prefabs/biomes/mountain/Cylinder.938",
+            "cc.Mesh",
+            1
+        ],
+        "af8577f3-baee-4506-bfe6-0260935e103f@d65f3": [
+            "prefabs/biomes/mountain/mountain",
+            "cc.Prefab",
+            1
+        ],
+        "6cc526ce-ba0f-4d36-ba25-0a106d5c970a@17464": [
+            "prefabs/biomes/rocks/Stone",
+            "cc.Material",
+            1
+        ],
+        "6cc526ce-ba0f-4d36-ba25-0a106d5c970a@89988": [
+            "prefabs/biomes/rocks/Cylinder.936",
+            "cc.Mesh",
+            1
+        ],
+        "6cc526ce-ba0f-4d36-ba25-0a106d5c970a@4f7eb": [
+            "prefabs/biomes/rocks/rocks",
+            "cc.Prefab",
+            1
+        ],
+        "141bccb1-7321-48dd-b20f-4568ee225349@17464": [
+            "prefabs/biomes/rocks_small/Stone",
+            "cc.Material",
+            1
+        ],
+        "141bccb1-7321-48dd-b20f-4568ee225349@53291": [
+            "prefabs/biomes/rocks_small/Cylinder.937",
+            "cc.Mesh",
+            1
+        ],
+        "141bccb1-7321-48dd-b20f-4568ee225349@111ab": [
+            "prefabs/biomes/rocks_small/rocks_small",
+            "cc.Prefab",
+            1
+        ],
+        "311ffeac-61c8-41a4-b6b0-24ad2c5ccb47@83472": [
+            "prefabs/buildings/building_archeryrange/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "311ffeac-61c8-41a4-b6b0-24ad2c5ccb47@88454": [
+            "prefabs/buildings/building_archeryrange/building_archeryrange_blue",
+            "cc.Mesh",
+            1
+        ],
+        "311ffeac-61c8-41a4-b6b0-24ad2c5ccb47@7d6ab": [
+            "prefabs/buildings/building_archeryrange/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "311ffeac-61c8-41a4-b6b0-24ad2c5ccb47@7cb49": [
+            "prefabs/buildings/building_archeryrange/building_archeryrange",
+            "cc.Prefab",
+            1
+        ],
+        "d75905c0-f3b4-4d8a-91df-0af099f80c89@83472": [
+            "prefabs/buildings/building_barracks/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "d75905c0-f3b4-4d8a-91df-0af099f80c89@eb1b4": [
+            "prefabs/buildings/building_barracks/building_barracks_blue",
+            "cc.Mesh",
+            1
+        ],
+        "d75905c0-f3b4-4d8a-91df-0af099f80c89@7d6ab": [
+            "prefabs/buildings/building_barracks/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d75905c0-f3b4-4d8a-91df-0af099f80c89@5fbf0": [
+            "prefabs/buildings/building_barracks/building_barracks",
+            "cc.Prefab",
+            1
+        ],
+        "6c17e287-caa5-4c89-993e-135d6b2a35d7@83472": [
+            "prefabs/buildings/building_blacksmith/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "6c17e287-caa5-4c89-993e-135d6b2a35d7@32c5d": [
+            "prefabs/buildings/building_blacksmith/building_blacksmith_blue",
+            "cc.Mesh",
+            1
+        ],
+        "6c17e287-caa5-4c89-993e-135d6b2a35d7@7d6ab": [
+            "prefabs/buildings/building_blacksmith/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6c17e287-caa5-4c89-993e-135d6b2a35d7@239c2": [
+            "prefabs/buildings/building_blacksmith/building_blacksmith",
+            "cc.Prefab",
+            1
+        ],
+        "4ea3945c-f390-4ec7-bd26-30dc52753289@83472": [
+            "prefabs/buildings/building_bridge_A/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "4ea3945c-f390-4ec7-bd26-30dc52753289@6964a": [
+            "prefabs/buildings/building_bridge_A/building_bridge_A",
+            "cc.Mesh",
+            1
+        ],
+        "4ea3945c-f390-4ec7-bd26-30dc52753289@7d6ab": [
+            "prefabs/buildings/building_bridge_A/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "4ea3945c-f390-4ec7-bd26-30dc52753289@959ad": [
+            "prefabs/buildings/building_bridge_A/building_bridge_A",
+            "cc.Prefab",
+            1
+        ],
+        "e9b41bc6-4fa6-4c3a-bcd0-076ca365a9fb@83472": [
+            "prefabs/buildings/building_bridge_B/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "e9b41bc6-4fa6-4c3a-bcd0-076ca365a9fb@98433": [
+            "prefabs/buildings/building_bridge_B/building_bridge_B",
+            "cc.Mesh",
+            1
+        ],
+        "e9b41bc6-4fa6-4c3a-bcd0-076ca365a9fb@7d6ab": [
+            "prefabs/buildings/building_bridge_B/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "e9b41bc6-4fa6-4c3a-bcd0-076ca365a9fb@462d6": [
+            "prefabs/buildings/building_bridge_B/building_bridge_B",
+            "cc.Prefab",
+            1
+        ],
+        "8a74fa24-f4ce-4179-a163-9a147d38916e@83472": [
+            "prefabs/buildings/building_castle/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "8a74fa24-f4ce-4179-a163-9a147d38916e@c85ba": [
+            "prefabs/buildings/building_castle/building_castle_blue",
+            "cc.Mesh",
+            1
+        ],
+        "8a74fa24-f4ce-4179-a163-9a147d38916e@7d6ab": [
+            "prefabs/buildings/building_castle/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "8a74fa24-f4ce-4179-a163-9a147d38916e@74cdc": [
+            "prefabs/buildings/building_castle/building_castle",
+            "cc.Prefab",
+            1
+        ],
+        "489fbe58-5d88-4f2d-ba8d-7730a83a5934@83472": [
+            "prefabs/buildings/building_church/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "489fbe58-5d88-4f2d-ba8d-7730a83a5934@69cdc": [
+            "prefabs/buildings/building_church/building_church_blue",
+            "cc.Mesh",
+            1
+        ],
+        "489fbe58-5d88-4f2d-ba8d-7730a83a5934@7d6ab": [
+            "prefabs/buildings/building_church/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "489fbe58-5d88-4f2d-ba8d-7730a83a5934@fcf73": [
+            "prefabs/buildings/building_church/building_church",
+            "cc.Prefab",
+            1
+        ],
+        "610da71b-6e8d-467b-91f2-ec45eccc0e03@83472": [
+            "prefabs/buildings/building_destroyed/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "610da71b-6e8d-467b-91f2-ec45eccc0e03@c75ab": [
+            "prefabs/buildings/building_destroyed/building_destroyed",
+            "cc.Mesh",
+            1
+        ],
+        "610da71b-6e8d-467b-91f2-ec45eccc0e03@7d6ab": [
+            "prefabs/buildings/building_destroyed/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "610da71b-6e8d-467b-91f2-ec45eccc0e03@a6724": [
+            "prefabs/buildings/building_destroyed/building_destroyed",
+            "cc.Prefab",
+            1
+        ],
+        "6dc53edf-c80e-4fe3-ad10-d547dc13b2db@83472": [
+            "prefabs/buildings/building_dirt/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "6dc53edf-c80e-4fe3-ad10-d547dc13b2db@e6184": [
+            "prefabs/buildings/building_dirt/building_dirt",
+            "cc.Mesh",
+            1
+        ],
+        "6dc53edf-c80e-4fe3-ad10-d547dc13b2db@7d6ab": [
+            "prefabs/buildings/building_dirt/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6dc53edf-c80e-4fe3-ad10-d547dc13b2db@ba6ad": [
+            "prefabs/buildings/building_dirt/building_dirt",
+            "cc.Prefab",
+            1
+        ],
+        "277da579-b20c-45fe-8d27-c52d14abc1a2@13964": [
+            "prefabs/buildings/building_docks/building_docks",
+            "cc.Prefab",
+            1
+        ],
+        "277da579-b20c-45fe-8d27-c52d14abc1a2@83472": [
+            "prefabs/buildings/building_docks/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "277da579-b20c-45fe-8d27-c52d14abc1a2@641c8": [
+            "prefabs/buildings/building_docks/building_docks_blue",
+            "cc.Mesh",
+            1
+        ],
+        "277da579-b20c-45fe-8d27-c52d14abc1a2@7d6ab": [
+            "prefabs/buildings/building_docks/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d4495cff-0acb-4ad6-a768-45398dc01f28@83472": [
+            "prefabs/buildings/building_grain/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "d4495cff-0acb-4ad6-a768-45398dc01f28@8b046": [
+            "prefabs/buildings/building_grain/building_grain",
+            "cc.Mesh",
+            1
+        ],
+        "d4495cff-0acb-4ad6-a768-45398dc01f28@7d6ab": [
+            "prefabs/buildings/building_grain/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d4495cff-0acb-4ad6-a768-45398dc01f28@b905c": [
+            "prefabs/buildings/building_grain/building_grain",
+            "cc.Prefab",
+            1
+        ],
+        "8df90620-cb7f-4492-b1c1-dc3fce6bd3b8@83472": [
+            "prefabs/buildings/building_home_A/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "8df90620-cb7f-4492-b1c1-dc3fce6bd3b8@4469f": [
+            "prefabs/buildings/building_home_A/building_home_A_blue",
+            "cc.Mesh",
+            1
+        ],
+        "8df90620-cb7f-4492-b1c1-dc3fce6bd3b8@7d6ab": [
+            "prefabs/buildings/building_home_A/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "8df90620-cb7f-4492-b1c1-dc3fce6bd3b8@e203b": [
+            "prefabs/buildings/building_home_A/building_home_A",
+            "cc.Prefab",
+            1
+        ],
+        "dbe85a21-e5e2-4e66-a5e4-65edf95b48c3@83472": [
+            "prefabs/buildings/building_home_B/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "dbe85a21-e5e2-4e66-a5e4-65edf95b48c3@c5005": [
+            "prefabs/buildings/building_home_B/building_home_B_blue",
+            "cc.Mesh",
+            1
+        ],
+        "dbe85a21-e5e2-4e66-a5e4-65edf95b48c3@7d6ab": [
+            "prefabs/buildings/building_home_B/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "dbe85a21-e5e2-4e66-a5e4-65edf95b48c3@46d33": [
+            "prefabs/buildings/building_home_B/building_home_B",
+            "cc.Prefab",
+            1
+        ],
+        "a90eab0a-2f4f-462f-a0f2-573c7d22b0af@83472": [
+            "prefabs/buildings/building_lumbermill/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "a90eab0a-2f4f-462f-a0f2-573c7d22b0af@4d48f": [
+            "prefabs/buildings/building_lumbermill/building_lumbermill_blue",
+            "cc.Mesh",
+            1
+        ],
+        "a90eab0a-2f4f-462f-a0f2-573c7d22b0af@dec1a": [
+            "prefabs/buildings/building_lumbermill/building_lumbermill_saw_blue",
+            "cc.Mesh",
+            1
+        ],
+        "a90eab0a-2f4f-462f-a0f2-573c7d22b0af@dbf07": [
+            "prefabs/buildings/building_lumbermill/building_lumbermill_top_blue",
+            "cc.Mesh",
+            1
+        ],
+        "a90eab0a-2f4f-462f-a0f2-573c7d22b0af@7d6ab": [
+            "prefabs/buildings/building_lumbermill/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "a90eab0a-2f4f-462f-a0f2-573c7d22b0af@84f08": [
+            "prefabs/buildings/building_lumbermill/building_lumbermill",
+            "cc.Prefab",
+            1
+        ],
+        "2de305d2-f3af-4fb1-90ca-8e32cdfd3420@83472": [
+            "prefabs/buildings/building_market/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "2de305d2-f3af-4fb1-90ca-8e32cdfd3420@20cc0": [
+            "prefabs/buildings/building_market/building_market_blue",
+            "cc.Mesh",
+            1
+        ],
+        "2de305d2-f3af-4fb1-90ca-8e32cdfd3420@7d6ab": [
+            "prefabs/buildings/building_market/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "2de305d2-f3af-4fb1-90ca-8e32cdfd3420@df632": [
+            "prefabs/buildings/building_market/building_market",
+            "cc.Prefab",
+            1
+        ],
+        "edd118b1-08c5-44dc-a6c8-ebea43f8eeae@83472": [
+            "prefabs/buildings/building_mine/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "edd118b1-08c5-44dc-a6c8-ebea43f8eeae@6c7eb": [
+            "prefabs/buildings/building_mine/building_mine_blue",
+            "cc.Mesh",
+            1
+        ],
+        "edd118b1-08c5-44dc-a6c8-ebea43f8eeae@7d6ab": [
+            "prefabs/buildings/building_mine/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "edd118b1-08c5-44dc-a6c8-ebea43f8eeae@629ad": [
+            "prefabs/buildings/building_mine/building_mine",
+            "cc.Prefab",
+            1
+        ],
+        "3a913b4d-2277-4f6c-8028-7cbfd04f00af@83472": [
+            "prefabs/buildings/building_scaffolding/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "3a913b4d-2277-4f6c-8028-7cbfd04f00af@0bf05": [
+            "prefabs/buildings/building_scaffolding/building_scaffolding",
+            "cc.Mesh",
+            1
+        ],
+        "3a913b4d-2277-4f6c-8028-7cbfd04f00af@7d6ab": [
+            "prefabs/buildings/building_scaffolding/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "3a913b4d-2277-4f6c-8028-7cbfd04f00af@fef4d": [
+            "prefabs/buildings/building_scaffolding/building_scaffolding",
+            "cc.Prefab",
+            1
+        ],
+        "4a8ca298-48de-45ce-95ae-73a3069a8ead@83472": [
+            "prefabs/buildings/building_shipyard/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "4a8ca298-48de-45ce-95ae-73a3069a8ead@60e90": [
+            "prefabs/buildings/building_shipyard/building_shipyard_blue",
+            "cc.Mesh",
+            1
+        ],
+        "4a8ca298-48de-45ce-95ae-73a3069a8ead@7d6ab": [
+            "prefabs/buildings/building_shipyard/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "4a8ca298-48de-45ce-95ae-73a3069a8ead@39b56": [
+            "prefabs/buildings/building_shipyard/building_shipyard",
+            "cc.Prefab",
+            1
+        ],
+        "8c5e4d68-585b-401c-9f9a-c17ca02cbdc2@83472": [
+            "prefabs/buildings/building_shrine/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "8c5e4d68-585b-401c-9f9a-c17ca02cbdc2@c0096": [
+            "prefabs/buildings/building_shrine/building_shrine_blue",
+            "cc.Mesh",
+            1
+        ],
+        "8c5e4d68-585b-401c-9f9a-c17ca02cbdc2@7d6ab": [
+            "prefabs/buildings/building_shrine/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "8c5e4d68-585b-401c-9f9a-c17ca02cbdc2@d11ff": [
+            "prefabs/buildings/building_shrine/building_shrine",
+            "cc.Prefab",
+            1
+        ],
+        "f6a75322-2560-4a74-8814-3d86b81379f8@83472": [
+            "prefabs/buildings/building_stables/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "f6a75322-2560-4a74-8814-3d86b81379f8@1f5f0": [
+            "prefabs/buildings/building_stables/building_stables_blue",
+            "cc.Mesh",
+            1
+        ],
+        "f6a75322-2560-4a74-8814-3d86b81379f8@7d6ab": [
+            "prefabs/buildings/building_stables/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "f6a75322-2560-4a74-8814-3d86b81379f8@3cafa": [
+            "prefabs/buildings/building_stables/building_stables",
+            "cc.Prefab",
+            1
+        ],
+        "64f62fb5-2941-494d-ac7e-9abc0d6c3502@83472": [
+            "prefabs/buildings/building_stage_A/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "64f62fb5-2941-494d-ac7e-9abc0d6c3502@1d15b": [
+            "prefabs/buildings/building_stage_A/building_stage_A",
+            "cc.Mesh",
+            1
+        ],
+        "64f62fb5-2941-494d-ac7e-9abc0d6c3502@7d6ab": [
+            "prefabs/buildings/building_stage_A/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "64f62fb5-2941-494d-ac7e-9abc0d6c3502@0d4f9": [
+            "prefabs/buildings/building_stage_A/building_stage_A",
+            "cc.Prefab",
+            1
+        ],
+        "d505cfc9-25d1-481c-b117-86a4c677d22b@83472": [
+            "prefabs/buildings/building_stage_B/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "d505cfc9-25d1-481c-b117-86a4c677d22b@3cee1": [
+            "prefabs/buildings/building_stage_B/building_stage_B",
+            "cc.Mesh",
+            1
+        ],
+        "d505cfc9-25d1-481c-b117-86a4c677d22b@7d6ab": [
+            "prefabs/buildings/building_stage_B/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d505cfc9-25d1-481c-b117-86a4c677d22b@c5abc": [
+            "prefabs/buildings/building_stage_B/building_stage_B",
+            "cc.Prefab",
+            1
+        ],
+        "e7124161-41a5-4c0f-9b90-5d6b27b1e6db@83472": [
+            "prefabs/buildings/building_stage_C/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "e7124161-41a5-4c0f-9b90-5d6b27b1e6db@6c61e": [
+            "prefabs/buildings/building_stage_C/building_stage_C",
+            "cc.Mesh",
+            1
+        ],
+        "e7124161-41a5-4c0f-9b90-5d6b27b1e6db@7d6ab": [
+            "prefabs/buildings/building_stage_C/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "e7124161-41a5-4c0f-9b90-5d6b27b1e6db@ba56e": [
+            "prefabs/buildings/building_stage_C/building_stage_C",
+            "cc.Prefab",
+            1
+        ],
+        "2589d156-d383-4c47-9acf-0b9618041a98@83472": [
+            "prefabs/buildings/building_tavern/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "2589d156-d383-4c47-9acf-0b9618041a98@c8f6a": [
+            "prefabs/buildings/building_tavern/building_tavern_blue",
+            "cc.Mesh",
+            1
+        ],
+        "2589d156-d383-4c47-9acf-0b9618041a98@7d6ab": [
+            "prefabs/buildings/building_tavern/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "2589d156-d383-4c47-9acf-0b9618041a98@cb600": [
+            "prefabs/buildings/building_tavern/building_tavern",
+            "cc.Prefab",
+            1
+        ],
+        "55d1d5ff-973a-4777-98be-937d34e25bd9@83472": [
+            "prefabs/buildings/building_tent/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "55d1d5ff-973a-4777-98be-937d34e25bd9@ec14f": [
+            "prefabs/buildings/building_tent/building_tent_blue",
+            "cc.Mesh",
+            1
+        ],
+        "55d1d5ff-973a-4777-98be-937d34e25bd9@7d6ab": [
+            "prefabs/buildings/building_tent/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "55d1d5ff-973a-4777-98be-937d34e25bd9@d2f98": [
+            "prefabs/buildings/building_tent/building_tent",
+            "cc.Prefab",
+            1
+        ],
+        "4f9a869d-ee9d-49b2-a3cd-9bd321641472@83472": [
+            "prefabs/buildings/building_tower_A/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "4f9a869d-ee9d-49b2-a3cd-9bd321641472@0c438": [
+            "prefabs/buildings/building_tower_A/building_tower_A_blue",
+            "cc.Mesh",
+            1
+        ],
+        "4f9a869d-ee9d-49b2-a3cd-9bd321641472@8342f": [
+            "prefabs/buildings/building_tower_A/building_tower_A_top_blue",
+            "cc.Mesh",
+            1
+        ],
+        "4f9a869d-ee9d-49b2-a3cd-9bd321641472@7d6ab": [
+            "prefabs/buildings/building_tower_A/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "4f9a869d-ee9d-49b2-a3cd-9bd321641472@c0d43": [
+            "prefabs/buildings/building_tower_A/building_tower_A",
+            "cc.Prefab",
+            1
+        ],
+        "f1e8de35-7033-4ccb-b857-ef1d493f6100@19063": [
+            "prefabs/buildings/building_tower_B/building_tower_B",
+            "cc.Prefab",
+            1
+        ],
+        "f1e8de35-7033-4ccb-b857-ef1d493f6100@83472": [
+            "prefabs/buildings/building_tower_B/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "f1e8de35-7033-4ccb-b857-ef1d493f6100@2c7cc": [
+            "prefabs/buildings/building_tower_B/building_tower_B_blue",
+            "cc.Mesh",
+            1
+        ],
+        "f1e8de35-7033-4ccb-b857-ef1d493f6100@aa6c7": [
+            "prefabs/buildings/building_tower_B/building_tower_B_top_blue",
+            "cc.Mesh",
+            1
+        ],
+        "f1e8de35-7033-4ccb-b857-ef1d493f6100@7d6ab": [
+            "prefabs/buildings/building_tower_B/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "4734413a-3aed-4264-981a-2e3b919e7f62@83472": [
+            "prefabs/buildings/building_tower_base/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "4734413a-3aed-4264-981a-2e3b919e7f62@f3cf6": [
+            "prefabs/buildings/building_tower_base/building_tower_base_blue",
+            "cc.Mesh",
+            1
+        ],
+        "4734413a-3aed-4264-981a-2e3b919e7f62@7d6ab": [
+            "prefabs/buildings/building_tower_base/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "4734413a-3aed-4264-981a-2e3b919e7f62@7cc4d": [
+            "prefabs/buildings/building_tower_base/building_tower_base",
+            "cc.Prefab",
+            1
+        ],
+        "bb2453c1-2164-4116-8a00-89cde9136dfb@83472": [
+            "prefabs/buildings/building_tower_cannon/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "bb2453c1-2164-4116-8a00-89cde9136dfb@00842": [
+            "prefabs/buildings/building_tower_cannon/building_tower_cannon_blue",
+            "cc.Mesh",
+            1
+        ],
+        "bb2453c1-2164-4116-8a00-89cde9136dfb@beb25": [
+            "prefabs/buildings/building_tower_cannon/cannon_turret_blue",
+            "cc.Mesh",
+            1
+        ],
+        "bb2453c1-2164-4116-8a00-89cde9136dfb@e0fd9": [
+            "prefabs/buildings/building_tower_cannon/cannon_blue",
+            "cc.Mesh",
+            1
+        ],
+        "bb2453c1-2164-4116-8a00-89cde9136dfb@7d6ab": [
+            "prefabs/buildings/building_tower_cannon/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "bb2453c1-2164-4116-8a00-89cde9136dfb@ba2ce": [
+            "prefabs/buildings/building_tower_cannon/building_tower_cannon",
+            "cc.Prefab",
+            1
+        ],
+        "a0f55f03-39e8-4497-b199-88c5317d285d@14732": [
+            "prefabs/buildings/building_tower_catapult/building_tower_catapult_blue",
+            "cc.Mesh",
+            1
+        ],
+        "a0f55f03-39e8-4497-b199-88c5317d285d@83472": [
+            "prefabs/buildings/building_tower_catapult/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "a0f55f03-39e8-4497-b199-88c5317d285d@13a2f": [
+            "prefabs/buildings/building_tower_catapult/catapult_turret_blue",
+            "cc.Mesh",
+            1
+        ],
+        "a0f55f03-39e8-4497-b199-88c5317d285d@de43a": [
+            "prefabs/buildings/building_tower_catapult/catapult_arm_blue",
+            "cc.Mesh",
+            1
+        ],
+        "a0f55f03-39e8-4497-b199-88c5317d285d@7d6ab": [
+            "prefabs/buildings/building_tower_catapult/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "a0f55f03-39e8-4497-b199-88c5317d285d@5a95a": [
+            "prefabs/buildings/building_tower_catapult/building_tower_catapult",
+            "cc.Prefab",
+            1
+        ],
+        "91fb97be-e779-4f88-8c3e-6763c9e65fd1@83472": [
+            "prefabs/buildings/building_townhall/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "91fb97be-e779-4f88-8c3e-6763c9e65fd1@1d1f6": [
+            "prefabs/buildings/building_townhall/building_townhall_blue",
+            "cc.Mesh",
+            1
+        ],
+        "91fb97be-e779-4f88-8c3e-6763c9e65fd1@7d6ab": [
+            "prefabs/buildings/building_townhall/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "91fb97be-e779-4f88-8c3e-6763c9e65fd1@8e1bb": [
+            "prefabs/buildings/building_townhall/building_townhall",
+            "cc.Prefab",
+            1
+        ],
+        "c3c60629-ae18-4eb3-aab7-60fc81a7ec2d@83472": [
+            "prefabs/buildings/building_watchtower/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "c3c60629-ae18-4eb3-aab7-60fc81a7ec2d@07c7f": [
+            "prefabs/buildings/building_watchtower/building_watchtower_blue",
+            "cc.Mesh",
+            1
+        ],
+        "c3c60629-ae18-4eb3-aab7-60fc81a7ec2d@7d6ab": [
+            "prefabs/buildings/building_watchtower/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "c3c60629-ae18-4eb3-aab7-60fc81a7ec2d@911cf": [
+            "prefabs/buildings/building_watchtower/building_watchtower",
+            "cc.Prefab",
+            1
+        ],
+        "412fca1c-f74c-475a-9465-46b1dab56086@83472": [
+            "prefabs/buildings/building_watermill/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "412fca1c-f74c-475a-9465-46b1dab56086@b9350": [
+            "prefabs/buildings/building_watermill/building_watermill_blue",
+            "cc.Mesh",
+            1
+        ],
+        "412fca1c-f74c-475a-9465-46b1dab56086@0e993": [
+            "prefabs/buildings/building_watermill/building_watermill_wheel_blue",
+            "cc.Mesh",
+            1
+        ],
+        "412fca1c-f74c-475a-9465-46b1dab56086@7d6ab": [
+            "prefabs/buildings/building_watermill/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "412fca1c-f74c-475a-9465-46b1dab56086@28a9c": [
+            "prefabs/buildings/building_watermill/building_watermill",
+            "cc.Prefab",
+            1
+        ],
+        "b533a48b-0d75-451f-8b94-e6d8e8f3ee2f@83472": [
+            "prefabs/buildings/building_well/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "b533a48b-0d75-451f-8b94-e6d8e8f3ee2f@93762": [
+            "prefabs/buildings/building_well/building_well_blue",
+            "cc.Mesh",
+            1
+        ],
+        "b533a48b-0d75-451f-8b94-e6d8e8f3ee2f@7d6ab": [
+            "prefabs/buildings/building_well/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "b533a48b-0d75-451f-8b94-e6d8e8f3ee2f@034d2": [
+            "prefabs/buildings/building_well/building_well",
+            "cc.Prefab",
+            1
+        ],
+        "9df00641-1a58-449d-a55f-9403b018e211@83472": [
+            "prefabs/buildings/building_windmill/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "9df00641-1a58-449d-a55f-9403b018e211@1bb49": [
+            "prefabs/buildings/building_windmill/building_windmill_blue",
+            "cc.Mesh",
+            1
+        ],
+        "9df00641-1a58-449d-a55f-9403b018e211@5c8c6": [
+            "prefabs/buildings/building_windmill/building_windmill_top_blue",
+            "cc.Mesh",
+            1
+        ],
+        "9df00641-1a58-449d-a55f-9403b018e211@2d196": [
+            "prefabs/buildings/building_windmill/building_windmill_top_fan_blue",
+            "cc.Mesh",
+            1
+        ],
+        "9df00641-1a58-449d-a55f-9403b018e211@7d6ab": [
+            "prefabs/buildings/building_windmill/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "9df00641-1a58-449d-a55f-9403b018e211@d6d41": [
+            "prefabs/buildings/building_windmill/building_windmill",
+            "cc.Prefab",
+            1
+        ],
+        "49b0b888-879f-454e-8182-6390f6ae0ad8@83472": [
+            "prefabs/buildings/building_workshop/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "49b0b888-879f-454e-8182-6390f6ae0ad8@a7dd4": [
+            "prefabs/buildings/building_workshop/building_workshop_blue",
+            "cc.Mesh",
+            1
+        ],
+        "49b0b888-879f-454e-8182-6390f6ae0ad8@7d6ab": [
+            "prefabs/buildings/building_workshop/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "49b0b888-879f-454e-8182-6390f6ae0ad8@0b1a2": [
+            "prefabs/buildings/building_workshop/building_workshop",
+            "cc.Prefab",
+            1
+        ],
+        "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@17464": [
+            "prefabs/buildings/castle/Stone",
+            "cc.Material",
+            1
+        ],
+        "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@bb449": [
+            "prefabs/buildings/castle/Cube.789",
+            "cc.Mesh",
+            1
+        ],
+        "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@9e51f": [
+            "prefabs/buildings/castle/StoneDark",
+            "cc.Material",
+            1
+        ],
+        "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@3fdbc": [
+            "prefabs/buildings/castle/BrownDark",
+            "cc.Material",
+            1
+        ],
+        "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@1f97b": [
+            "prefabs/buildings/castle/Brown",
+            "cc.Material",
+            1
+        ],
+        "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@935df": [
+            "prefabs/buildings/castle/White",
+            "cc.Material",
+            1
+        ],
+        "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@3cf4b": [
+            "prefabs/buildings/castle/castle",
+            "cc.Prefab",
+            1
+        ],
+        "696f4249-2773-479a-97ec-272d79185f1a@83472": [
+            "prefabs/buildings/fence_stone_straight/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "696f4249-2773-479a-97ec-272d79185f1a@186bd": [
+            "prefabs/buildings/fence_stone_straight/fence_stone_straight",
+            "cc.Mesh",
+            1
+        ],
+        "696f4249-2773-479a-97ec-272d79185f1a@7d6ab": [
+            "prefabs/buildings/fence_stone_straight/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "696f4249-2773-479a-97ec-272d79185f1a@db428": [
+            "prefabs/buildings/fence_stone_straight/fence_stone_straight",
+            "cc.Prefab",
+            1
+        ],
+        "722ab53e-65b4-49dc-9d56-8d0c2e337ca1@83472": [
+            "prefabs/buildings/fence_stone_straight_gate/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "722ab53e-65b4-49dc-9d56-8d0c2e337ca1@82d4b": [
+            "prefabs/buildings/fence_stone_straight_gate/fence_stone_straight_gate",
+            "cc.Mesh",
+            1
+        ],
+        "722ab53e-65b4-49dc-9d56-8d0c2e337ca1@50cd0": [
+            "prefabs/buildings/fence_stone_straight_gate/fence_stone_straight_door",
+            "cc.Mesh",
+            1
+        ],
+        "722ab53e-65b4-49dc-9d56-8d0c2e337ca1@7d6ab": [
+            "prefabs/buildings/fence_stone_straight_gate/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "722ab53e-65b4-49dc-9d56-8d0c2e337ca1@55a86": [
+            "prefabs/buildings/fence_stone_straight_gate/fence_stone_straight_gate",
+            "cc.Prefab",
+            1
+        ],
+        "2071ab1b-5c3c-4e75-91d8-eb02060299be@83472": [
+            "prefabs/buildings/fence_wood_straight/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "2071ab1b-5c3c-4e75-91d8-eb02060299be@d5792": [
+            "prefabs/buildings/fence_wood_straight/fence_wood_straight",
+            "cc.Mesh",
+            1
+        ],
+        "2071ab1b-5c3c-4e75-91d8-eb02060299be@7d6ab": [
+            "prefabs/buildings/fence_wood_straight/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "2071ab1b-5c3c-4e75-91d8-eb02060299be@afb3e": [
+            "prefabs/buildings/fence_wood_straight/fence_wood_straight",
+            "cc.Prefab",
+            1
+        ],
+        "0664b993-1e28-431d-8a81-86e713929d03@83472": [
+            "prefabs/buildings/fence_wood_straight_gate/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "0664b993-1e28-431d-8a81-86e713929d03@41bc4": [
+            "prefabs/buildings/fence_wood_straight_gate/fence_wood_straight_gate",
+            "cc.Mesh",
+            1
+        ],
+        "0664b993-1e28-431d-8a81-86e713929d03@87ffa": [
+            "prefabs/buildings/fence_wood_straight_gate/fence_wood_straight_door",
+            "cc.Mesh",
+            1
+        ],
+        "0664b993-1e28-431d-8a81-86e713929d03@7d6ab": [
+            "prefabs/buildings/fence_wood_straight_gate/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "0664b993-1e28-431d-8a81-86e713929d03@957b8": [
+            "prefabs/buildings/fence_wood_straight_gate/fence_wood_straight_gate",
+            "cc.Prefab",
+            1
+        ],
+        "97df5e12-28a7-41b4-91eb-fa99dfd54cd2": [
+            "prefabs/buildings/hexagons_medieval",
+            "cc.ImageAsset",
+            1
+        ],
+        "97df5e12-28a7-41b4-91eb-fa99dfd54cd2@6c48a": [
+            "prefabs/buildings/hexagons_medieval/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6ff5872b-95eb-4346-b96d-b15883eb8d2c@83472": [
+            "prefabs/buildings/projectile_catapult/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "6ff5872b-95eb-4346-b96d-b15883eb8d2c@888b1": [
+            "prefabs/buildings/projectile_catapult/projectile_catapult_blue",
+            "cc.Mesh",
+            1
+        ],
+        "6ff5872b-95eb-4346-b96d-b15883eb8d2c@7d6ab": [
+            "prefabs/buildings/projectile_catapult/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6ff5872b-95eb-4346-b96d-b15883eb8d2c@d841a": [
+            "prefabs/buildings/projectile_catapult/projectile_catapult",
+            "cc.Prefab",
+            1
+        ],
+        "0532ed09-a71b-41da-8839-f01a8fd2b6dc@63474": [
+            "prefabs/buildings/wall_corner_A_gate/wall_corner_A_gate",
+            "cc.Prefab",
+            1
+        ],
+        "0532ed09-a71b-41da-8839-f01a8fd2b6dc@83472": [
+            "prefabs/buildings/wall_corner_A_gate/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "0532ed09-a71b-41da-8839-f01a8fd2b6dc@ec731": [
+            "prefabs/buildings/wall_corner_A_gate/wall_corner_A_gate",
+            "cc.Mesh",
+            1
+        ],
+        "0532ed09-a71b-41da-8839-f01a8fd2b6dc@8cb46": [
+            "prefabs/buildings/wall_corner_A_gate/wall_corner_A_gate_door_left",
+            "cc.Mesh",
+            1
+        ],
+        "0532ed09-a71b-41da-8839-f01a8fd2b6dc@3ee36": [
+            "prefabs/buildings/wall_corner_A_gate/wall_corner_A_gate_door_right",
+            "cc.Mesh",
+            1
+        ],
+        "0532ed09-a71b-41da-8839-f01a8fd2b6dc@7d6ab": [
+            "prefabs/buildings/wall_corner_A_gate/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d4c2d6c8-abad-46d8-a42d-e80c4c7dc9d5@83472": [
+            "prefabs/buildings/wall_corner_A_inside/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "d4c2d6c8-abad-46d8-a42d-e80c4c7dc9d5@5a651": [
+            "prefabs/buildings/wall_corner_A_inside/wall_corner_A_inside",
+            "cc.Mesh",
+            1
+        ],
+        "d4c2d6c8-abad-46d8-a42d-e80c4c7dc9d5@7d6ab": [
+            "prefabs/buildings/wall_corner_A_inside/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d4c2d6c8-abad-46d8-a42d-e80c4c7dc9d5@7433f": [
+            "prefabs/buildings/wall_corner_A_inside/wall_corner_A_inside",
+            "cc.Prefab",
+            1
+        ],
+        "184c163e-f180-4ad1-b2f1-188c1a1b03df@83472": [
+            "prefabs/buildings/wall_corner_A_outside/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "184c163e-f180-4ad1-b2f1-188c1a1b03df@6582c": [
+            "prefabs/buildings/wall_corner_A_outside/wall_corner_A_outside",
+            "cc.Mesh",
+            1
+        ],
+        "184c163e-f180-4ad1-b2f1-188c1a1b03df@7d6ab": [
+            "prefabs/buildings/wall_corner_A_outside/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "184c163e-f180-4ad1-b2f1-188c1a1b03df@00477": [
+            "prefabs/buildings/wall_corner_A_outside/wall_corner_A_outside",
+            "cc.Prefab",
+            1
+        ],
+        "d0b16bd1-7b94-4599-aefe-9adc1dd57be5@83472": [
+            "prefabs/buildings/wall_corner_B_inside/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "d0b16bd1-7b94-4599-aefe-9adc1dd57be5@45fc0": [
+            "prefabs/buildings/wall_corner_B_inside/wall_corner_B_inside",
+            "cc.Mesh",
+            1
+        ],
+        "d0b16bd1-7b94-4599-aefe-9adc1dd57be5@7d6ab": [
+            "prefabs/buildings/wall_corner_B_inside/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d0b16bd1-7b94-4599-aefe-9adc1dd57be5@3dfe1": [
+            "prefabs/buildings/wall_corner_B_inside/wall_corner_B_inside",
+            "cc.Prefab",
+            1
+        ],
+        "5f1bfafa-8b67-448f-8be8-55668180965d@83472": [
+            "prefabs/buildings/wall_corner_B_outside/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "5f1bfafa-8b67-448f-8be8-55668180965d@4f476": [
+            "prefabs/buildings/wall_corner_B_outside/wall_corner_B_outside",
+            "cc.Mesh",
+            1
+        ],
+        "5f1bfafa-8b67-448f-8be8-55668180965d@7d6ab": [
+            "prefabs/buildings/wall_corner_B_outside/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "5f1bfafa-8b67-448f-8be8-55668180965d@772ff": [
+            "prefabs/buildings/wall_corner_B_outside/wall_corner_B_outside",
+            "cc.Prefab",
+            1
+        ],
+        "785c8fba-4b5f-41ec-af7d-996b27ce8edb@83472": [
+            "prefabs/buildings/wall_straight/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "785c8fba-4b5f-41ec-af7d-996b27ce8edb@178c6": [
+            "prefabs/buildings/wall_straight/wall_straight",
+            "cc.Mesh",
+            1
+        ],
+        "785c8fba-4b5f-41ec-af7d-996b27ce8edb@7d6ab": [
+            "prefabs/buildings/wall_straight/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "785c8fba-4b5f-41ec-af7d-996b27ce8edb@f7c6e": [
+            "prefabs/buildings/wall_straight/wall_straight",
+            "cc.Prefab",
+            1
+        ],
+        "d9facf06-0816-496d-b8fd-b96830da0e19@18218": [
+            "prefabs/buildings/wall_straight_gate/wall_straight_gate",
+            "cc.Prefab",
+            1
+        ],
+        "d9facf06-0816-496d-b8fd-b96830da0e19@83472": [
+            "prefabs/buildings/wall_straight_gate/hexagons_medieval",
+            "cc.Material",
+            1
+        ],
+        "d9facf06-0816-496d-b8fd-b96830da0e19@a97d7": [
+            "prefabs/buildings/wall_straight_gate/wall_straight_gate",
+            "cc.Mesh",
+            1
+        ],
+        "d9facf06-0816-496d-b8fd-b96830da0e19@c2df1": [
+            "prefabs/buildings/wall_straight_gate/wall_straight_gate_door_left",
+            "cc.Mesh",
+            1
+        ],
+        "d9facf06-0816-496d-b8fd-b96830da0e19@2538b": [
+            "prefabs/buildings/wall_straight_gate/wall_straight_gate_door_right",
+            "cc.Mesh",
+            1
+        ],
+        "d9facf06-0816-496d-b8fd-b96830da0e19@7d6ab": [
+            "prefabs/buildings/wall_straight_gate/base_color_texture",
+            "cc.Texture2D",
+            1
+        ],
+        "39410b50-8f31-40d2-9315-e1dcbe34ed8e@dce60": [
+            "prefabs/rivers/hex_river_1/hex_river_1_mesh.004",
+            "cc.Mesh",
+            1
+        ],
+        "39410b50-8f31-40d2-9315-e1dcbe34ed8e@57eb5": [
+            "prefabs/rivers/hex_river_1/1",
+            "cc.Material",
+            1
+        ],
+        "39410b50-8f31-40d2-9315-e1dcbe34ed8e@29e0d": [
+            "prefabs/rivers/hex_river_1/2",
+            "cc.Material",
+            1
+        ],
+        "39410b50-8f31-40d2-9315-e1dcbe34ed8e@70daf": [
+            "prefabs/rivers/hex_river_1/hex_river_1",
+            "cc.Prefab",
+            1
+        ],
+        "5011d23a-fd8e-4af7-a80b-feceb55e3ac3@5b44a": [
+            "prefabs/rivers/hex_river_10/hex_river_10_mesh.001",
+            "cc.Mesh",
+            1
+        ],
+        "5011d23a-fd8e-4af7-a80b-feceb55e3ac3@57eb5": [
+            "prefabs/rivers/hex_river_10/1",
+            "cc.Material",
+            1
+        ],
+        "5011d23a-fd8e-4af7-a80b-feceb55e3ac3@29e0d": [
+            "prefabs/rivers/hex_river_10/2",
+            "cc.Material",
+            1
+        ],
+        "5011d23a-fd8e-4af7-a80b-feceb55e3ac3@3d924": [
+            "prefabs/rivers/hex_river_10/hex_river_10",
+            "cc.Prefab",
+            1
+        ],
+        "0109e4b4-e7a6-49b1-a218-d2b0bf9d944c@955ef": [
+            "prefabs/rivers/hex_river_11/hex_river_11_mesh.002",
+            "cc.Mesh",
+            1
+        ],
+        "0109e4b4-e7a6-49b1-a218-d2b0bf9d944c@57eb5": [
+            "prefabs/rivers/hex_river_11/1",
+            "cc.Material",
+            1
+        ],
+        "0109e4b4-e7a6-49b1-a218-d2b0bf9d944c@29e0d": [
+            "prefabs/rivers/hex_river_11/2",
+            "cc.Material",
+            1
+        ],
+        "0109e4b4-e7a6-49b1-a218-d2b0bf9d944c@bef47": [
+            "prefabs/rivers/hex_river_11/hex_river_11",
+            "cc.Prefab",
+            1
+        ],
+        "66fbb2d2-9b34-41bf-aaed-2d1ee02e43a5@2054e": [
+            "prefabs/rivers/hex_river_12/hex_river_12_mesh.001",
+            "cc.Mesh",
+            1
+        ],
+        "66fbb2d2-9b34-41bf-aaed-2d1ee02e43a5@57eb5": [
+            "prefabs/rivers/hex_river_12/1",
+            "cc.Material",
+            1
+        ],
+        "66fbb2d2-9b34-41bf-aaed-2d1ee02e43a5@29e0d": [
+            "prefabs/rivers/hex_river_12/2",
+            "cc.Material",
+            1
+        ],
+        "66fbb2d2-9b34-41bf-aaed-2d1ee02e43a5@bb8ad": [
+            "prefabs/rivers/hex_river_12/hex_river_12",
+            "cc.Prefab",
+            1
+        ],
+        "4af72f80-b20b-49dc-a6a3-c31b8a3b2a1c@1aed9": [
+            "prefabs/rivers/hex_river_13/hex_river_13_mesh.002",
+            "cc.Mesh",
+            1
+        ],
+        "4af72f80-b20b-49dc-a6a3-c31b8a3b2a1c@57eb5": [
+            "prefabs/rivers/hex_river_13/1",
+            "cc.Material",
+            1
+        ],
+        "4af72f80-b20b-49dc-a6a3-c31b8a3b2a1c@29e0d": [
+            "prefabs/rivers/hex_river_13/2",
+            "cc.Material",
+            1
+        ],
+        "4af72f80-b20b-49dc-a6a3-c31b8a3b2a1c@be137": [
+            "prefabs/rivers/hex_river_13/hex_river_13",
+            "cc.Prefab",
+            1
+        ],
+        "3bf8b081-3595-4649-ad2e-2e3a12d6d409@3cddf": [
+            "prefabs/rivers/hex_river_1_curvy/hex_river_1_curvy_mesh.001",
+            "cc.Mesh",
+            1
+        ],
+        "3bf8b081-3595-4649-ad2e-2e3a12d6d409@57eb5": [
+            "prefabs/rivers/hex_river_1_curvy/1",
+            "cc.Material",
+            1
+        ],
+        "3bf8b081-3595-4649-ad2e-2e3a12d6d409@29e0d": [
+            "prefabs/rivers/hex_river_1_curvy/2",
+            "cc.Material",
+            1
+        ],
+        "3bf8b081-3595-4649-ad2e-2e3a12d6d409@cc952": [
+            "prefabs/rivers/hex_river_1_curvy/hex_river_1_curvy",
+            "cc.Prefab",
+            1
+        ],
+        "63fee5ad-604a-4a7b-898e-1b35800c016d@709ec": [
+            "prefabs/rivers/hex_river_2/hex_river_2_mesh.001",
+            "cc.Mesh",
+            1
+        ],
+        "63fee5ad-604a-4a7b-898e-1b35800c016d@57eb5": [
+            "prefabs/rivers/hex_river_2/1",
+            "cc.Material",
+            1
+        ],
+        "63fee5ad-604a-4a7b-898e-1b35800c016d@29e0d": [
+            "prefabs/rivers/hex_river_2/2",
+            "cc.Material",
+            1
+        ],
+        "63fee5ad-604a-4a7b-898e-1b35800c016d@ef5f2": [
+            "prefabs/rivers/hex_river_2/hex_river_2",
+            "cc.Prefab",
+            1
+        ],
+        "5a45350c-a929-4bfe-a308-e96adf3a871f@ae2a4": [
+            "prefabs/rivers/hex_river_3/hex_river_3_mesh.001",
+            "cc.Mesh",
+            1
+        ],
+        "5a45350c-a929-4bfe-a308-e96adf3a871f@57eb5": [
+            "prefabs/rivers/hex_river_3/1",
+            "cc.Material",
+            1
+        ],
+        "5a45350c-a929-4bfe-a308-e96adf3a871f@29e0d": [
+            "prefabs/rivers/hex_river_3/2",
+            "cc.Material",
+            1
+        ],
+        "5a45350c-a929-4bfe-a308-e96adf3a871f@2f0d0": [
+            "prefabs/rivers/hex_river_3/hex_river_3",
+            "cc.Prefab",
+            1
+        ],
+        "78465a4d-2a60-42d6-92fd-55091089a02e@55fbc": [
+            "prefabs/rivers/hex_river_4/hex_river_4_mesh.001",
+            "cc.Mesh",
+            1
+        ],
+        "78465a4d-2a60-42d6-92fd-55091089a02e@57eb5": [
+            "prefabs/rivers/hex_river_4/1",
+            "cc.Material",
+            1
+        ],
+        "78465a4d-2a60-42d6-92fd-55091089a02e@29e0d": [
+            "prefabs/rivers/hex_river_4/2",
+            "cc.Material",
+            1
+        ],
+        "78465a4d-2a60-42d6-92fd-55091089a02e@c0397": [
+            "prefabs/rivers/hex_river_4/hex_river_4",
+            "cc.Prefab",
+            1
+        ],
+        "79c9a870-7b5e-4ad8-8104-ef8fb950c029@41e61": [
+            "prefabs/rivers/hex_river_5/hex_river_5_mesh.001",
+            "cc.Mesh",
+            1
+        ],
+        "79c9a870-7b5e-4ad8-8104-ef8fb950c029@57eb5": [
+            "prefabs/rivers/hex_river_5/1",
+            "cc.Material",
+            1
+        ],
+        "79c9a870-7b5e-4ad8-8104-ef8fb950c029@29e0d": [
+            "prefabs/rivers/hex_river_5/2",
+            "cc.Material",
+            1
+        ],
+        "79c9a870-7b5e-4ad8-8104-ef8fb950c029@a2f86": [
+            "prefabs/rivers/hex_river_5/hex_river_5",
+            "cc.Prefab",
+            1
+        ],
+        "67db095d-d36e-4924-b638-6e2a72dd3c23@2a339": [
+            "prefabs/rivers/hex_river_6/hex_river_6_mesh.001",
+            "cc.Mesh",
+            1
+        ],
+        "67db095d-d36e-4924-b638-6e2a72dd3c23@57eb5": [
+            "prefabs/rivers/hex_river_6/1",
+            "cc.Material",
+            1
+        ],
+        "67db095d-d36e-4924-b638-6e2a72dd3c23@29e0d": [
+            "prefabs/rivers/hex_river_6/2",
+            "cc.Material",
+            1
+        ],
+        "67db095d-d36e-4924-b638-6e2a72dd3c23@75ccf": [
+            "prefabs/rivers/hex_river_6/hex_river_6",
+            "cc.Prefab",
+            1
+        ],
+        "9a1c8ef7-e098-4cbb-9448-b0cf7f56bb98@967f4": [
+            "prefabs/rivers/hex_river_7/hex_river_7_mesh.001",
+            "cc.Mesh",
+            1
+        ],
+        "9a1c8ef7-e098-4cbb-9448-b0cf7f56bb98@57eb5": [
+            "prefabs/rivers/hex_river_7/1",
+            "cc.Material",
+            1
+        ],
+        "9a1c8ef7-e098-4cbb-9448-b0cf7f56bb98@29e0d": [
+            "prefabs/rivers/hex_river_7/2",
+            "cc.Material",
+            1
+        ],
+        "9a1c8ef7-e098-4cbb-9448-b0cf7f56bb98@8688b": [
+            "prefabs/rivers/hex_river_7/hex_river_7",
+            "cc.Prefab",
+            1
+        ],
+        "cab129ce-55d5-44fa-ac5d-949459c43dcd@6699d": [
+            "prefabs/rivers/hex_river_8/hex_river_8_mesh.003",
+            "cc.Mesh",
+            1
+        ],
+        "cab129ce-55d5-44fa-ac5d-949459c43dcd@57eb5": [
+            "prefabs/rivers/hex_river_8/1",
+            "cc.Material",
+            1
+        ],
+        "cab129ce-55d5-44fa-ac5d-949459c43dcd@29e0d": [
+            "prefabs/rivers/hex_river_8/2",
+            "cc.Material",
+            1
+        ],
+        "cab129ce-55d5-44fa-ac5d-949459c43dcd@b5c11": [
+            "prefabs/rivers/hex_river_8/hex_river_8",
+            "cc.Prefab",
+            1
+        ],
+        "d3a667b1-e296-48de-bcc3-31cd6cc38c52@61332": [
+            "prefabs/rivers/hex_river_9/hex_river_9",
+            "cc.Prefab",
+            1
+        ],
+        "d3a667b1-e296-48de-bcc3-31cd6cc38c52@97e10": [
+            "prefabs/rivers/hex_river_9/hex_river_9_mesh.001",
+            "cc.Mesh",
+            1
+        ],
+        "d3a667b1-e296-48de-bcc3-31cd6cc38c52@57eb5": [
+            "prefabs/rivers/hex_river_9/1",
+            "cc.Material",
+            1
+        ],
+        "d3a667b1-e296-48de-bcc3-31cd6cc38c52@29e0d": [
+            "prefabs/rivers/hex_river_9/2",
+            "cc.Material",
+            1
+        ],
+        "46b9508c-7d69-4747-9086-fbd54160d1d7@a8efa": [
+            "prefabs/tiles/hex/hex",
+            "cc.Mesh",
+            1
+        ],
+        "46b9508c-7d69-4747-9086-fbd54160d1d7@b26dd": [
+            "prefabs/tiles/hex/hex",
+            "cc.Prefab",
+            1
+        ],
+        "f446b796-5fd8-4655-a466-8d7cb4bd7ba1@30f15": [
+            "prefabs/tiles/hex_base/hex_base",
+            "cc.Mesh",
+            1
+        ],
+        "f446b796-5fd8-4655-a466-8d7cb4bd7ba1@531c0": [
+            "prefabs/tiles/hex_base/hex_base",
+            "cc.Prefab",
+            1
+        ],
+        "71aa083c-48e8-4e75-b6f8-853fa22f7e87@08c68": [
+            "prefabs/tiles/hex_plane/Plane",
+            "cc.Mesh",
+            1
+        ],
+        "71aa083c-48e8-4e75-b6f8-853fa22f7e87@a5a37": [
+            "prefabs/tiles/hex_plane/hex_plane",
+            "cc.Prefab",
+            1
+        ],
+        "d0781114-570b-427b-aa07-d5a576330515@52aff": [
+            "prefabs/tiles/hex_water/mesh_hex_water",
+            "cc.Mesh",
+            1
+        ],
+        "d0781114-570b-427b-aa07-d5a576330515@09ad3": [
+            "prefabs/tiles/hex_water/hex_water",
+            "cc.Prefab",
+            1
+        ],
+        "f6d6e1e6-879c-4bd3-9942-f11ea80709c5": [
+            "ui/bg/BgCount",
+            "cc.ImageAsset",
+            1
+        ],
+        "f6d6e1e6-879c-4bd3-9942-f11ea80709c5@6c48a": [
+            "ui/bg/BgCount/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "f6d6e1e6-879c-4bd3-9942-f11ea80709c5@f9941": [
+            "ui/bg/BgCount/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "12ccf59e-15a4-40a5-9329-f335cd75f07f": [
+            "ui/bg/BgPixel",
+            "cc.ImageAsset",
+            1
+        ],
+        "12ccf59e-15a4-40a5-9329-f335cd75f07f@6c48a": [
+            "ui/bg/BgPixel/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "12ccf59e-15a4-40a5-9329-f335cd75f07f@f9941": [
+            "ui/bg/BgPixel/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "84a0b865-0275-47fc-9fe4-0f03925a316c": [
+            "ui/bg/Bg_20",
+            "cc.ImageAsset",
+            1
+        ],
+        "84a0b865-0275-47fc-9fe4-0f03925a316c@6c48a": [
+            "ui/bg/Bg_20/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "84a0b865-0275-47fc-9fe4-0f03925a316c@f9941": [
+            "ui/bg/Bg_20/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "a0aac948-c985-4fc0-8214-e6111c245e39": [
+            "ui/bg/Bg_24",
+            "cc.ImageAsset",
+            1
+        ],
+        "a0aac948-c985-4fc0-8214-e6111c245e39@6c48a": [
+            "ui/bg/Bg_24/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "a0aac948-c985-4fc0-8214-e6111c245e39@f9941": [
+            "ui/bg/Bg_24/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6adefc36-97d2-4704-b16b-e616def4b81d": [
+            "ui/bg/Border_20",
+            "cc.ImageAsset",
+            1
+        ],
+        "6adefc36-97d2-4704-b16b-e616def4b81d@6c48a": [
+            "ui/bg/Border_20/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6adefc36-97d2-4704-b16b-e616def4b81d@f9941": [
+            "ui/bg/Border_20/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1fa42dfd-b7ac-4791-9812-7f1cf6b3f701": [
+            "ui/bg/Border_24",
+            "cc.ImageAsset",
+            1
+        ],
+        "1fa42dfd-b7ac-4791-9812-7f1cf6b3f701@6c48a": [
+            "ui/bg/Border_24/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "1fa42dfd-b7ac-4791-9812-7f1cf6b3f701@f9941": [
+            "ui/bg/Border_24/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "fa2fc54b-f117-41b2-ac1d-b17592dc1061": [
+            "ui/bg/BuildCardInfoLeftBg",
+            "cc.ImageAsset",
+            1
+        ],
+        "fa2fc54b-f117-41b2-ac1d-b17592dc1061@6c48a": [
+            "ui/bg/BuildCardInfoLeftBg/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "fa2fc54b-f117-41b2-ac1d-b17592dc1061@f9941": [
+            "ui/bg/BuildCardInfoLeftBg/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c67357aa-0b2b-4f21-99cd-caeb26ca076b": [
+            "ui/bubbles/BubbleRotate",
+            "cc.ImageAsset",
+            1
+        ],
+        "c67357aa-0b2b-4f21-99cd-caeb26ca076b@6c48a": [
+            "ui/bubbles/BubbleRotate/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "c67357aa-0b2b-4f21-99cd-caeb26ca076b@f9941": [
+            "ui/bubbles/BubbleRotate/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "81458ceb-92a3-4dae-a4ca-8085d0099f96": [
+            "ui/bubbles/BubbleTurns1",
+            "cc.ImageAsset",
+            1
+        ],
+        "81458ceb-92a3-4dae-a4ca-8085d0099f96@6c48a": [
+            "ui/bubbles/BubbleTurns1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "81458ceb-92a3-4dae-a4ca-8085d0099f96@f9941": [
+            "ui/bubbles/BubbleTurns1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "dbc0d695-7933-419e-bf0d-1ff2203133e9": [
+            "ui/bubbles/BubbleTurns10",
+            "cc.ImageAsset",
+            1
+        ],
+        "dbc0d695-7933-419e-bf0d-1ff2203133e9@6c48a": [
+            "ui/bubbles/BubbleTurns10/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "dbc0d695-7933-419e-bf0d-1ff2203133e9@f9941": [
+            "ui/bubbles/BubbleTurns10/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "3aebfcd6-17ca-458b-9061-8873735fba65": [
+            "ui/bubbles/BubbleTurns2",
+            "cc.ImageAsset",
+            1
+        ],
+        "3aebfcd6-17ca-458b-9061-8873735fba65@6c48a": [
+            "ui/bubbles/BubbleTurns2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "3aebfcd6-17ca-458b-9061-8873735fba65@f9941": [
+            "ui/bubbles/BubbleTurns2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8da936f3-c753-43b1-9397-5311bda2aedb": [
+            "ui/bubbles/BubbleTurns3",
+            "cc.ImageAsset",
+            1
+        ],
+        "8da936f3-c753-43b1-9397-5311bda2aedb@6c48a": [
+            "ui/bubbles/BubbleTurns3/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "8da936f3-c753-43b1-9397-5311bda2aedb@f9941": [
+            "ui/bubbles/BubbleTurns3/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "5a793beb-1c8b-4dc4-ad05-aeee6671df55": [
+            "ui/bubbles/BubbleTurns4",
+            "cc.ImageAsset",
+            1
+        ],
+        "5a793beb-1c8b-4dc4-ad05-aeee6671df55@6c48a": [
+            "ui/bubbles/BubbleTurns4/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "5a793beb-1c8b-4dc4-ad05-aeee6671df55@f9941": [
+            "ui/bubbles/BubbleTurns4/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "10ef7d3b-f5d0-4430-813d-2f68d8289303": [
+            "ui/bubbles/BubbleTurns5",
+            "cc.ImageAsset",
+            1
+        ],
+        "10ef7d3b-f5d0-4430-813d-2f68d8289303@6c48a": [
+            "ui/bubbles/BubbleTurns5/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "10ef7d3b-f5d0-4430-813d-2f68d8289303@f9941": [
+            "ui/bubbles/BubbleTurns5/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c9c5d7a1-8099-4f41-b14c-232cc9888939": [
+            "ui/bubbles/BubbleTurns6",
+            "cc.ImageAsset",
+            1
+        ],
+        "c9c5d7a1-8099-4f41-b14c-232cc9888939@6c48a": [
+            "ui/bubbles/BubbleTurns6/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "c9c5d7a1-8099-4f41-b14c-232cc9888939@f9941": [
+            "ui/bubbles/BubbleTurns6/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "afb68614-d0f0-4c63-a3f2-7a687dd9ef39": [
+            "ui/bubbles/BubbleTurns7",
+            "cc.ImageAsset",
+            1
+        ],
+        "afb68614-d0f0-4c63-a3f2-7a687dd9ef39@6c48a": [
+            "ui/bubbles/BubbleTurns7/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "afb68614-d0f0-4c63-a3f2-7a687dd9ef39@f9941": [
+            "ui/bubbles/BubbleTurns7/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b5c28b4f-791f-4d68-afaa-7d7559a1ab63": [
+            "ui/bubbles/BubbleTurns8",
+            "cc.ImageAsset",
+            1
+        ],
+        "b5c28b4f-791f-4d68-afaa-7d7559a1ab63@6c48a": [
+            "ui/bubbles/BubbleTurns8/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "b5c28b4f-791f-4d68-afaa-7d7559a1ab63@f9941": [
+            "ui/bubbles/BubbleTurns8/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "5939cfc2-27a4-46b4-a585-5942383a40c0": [
+            "ui/bubbles/BubbleTurns9",
+            "cc.ImageAsset",
+            1
+        ],
+        "5939cfc2-27a4-46b4-a585-5942383a40c0@6c48a": [
+            "ui/bubbles/BubbleTurns9/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "5939cfc2-27a4-46b4-a585-5942383a40c0@f9941": [
+            "ui/bubbles/BubbleTurns9/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "eb90f830-7c2a-49da-b76a-3ce45b10c5cc": [
+            "ui/button/ButtonActionIcon_100",
+            "cc.ImageAsset",
+            1
+        ],
+        "eb90f830-7c2a-49da-b76a-3ce45b10c5cc@6c48a": [
+            "ui/button/ButtonActionIcon_100/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "eb90f830-7c2a-49da-b76a-3ce45b10c5cc@f9941": [
+            "ui/button/ButtonActionIcon_100/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "62ee57b1-bcbf-428b-9264-fb60ab447991": [
+            "ui/button/ButtonActionIcon_80",
+            "cc.ImageAsset",
+            1
+        ],
+        "62ee57b1-bcbf-428b-9264-fb60ab447991@6c48a": [
+            "ui/button/ButtonActionIcon_80/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "62ee57b1-bcbf-428b-9264-fb60ab447991@f9941": [
+            "ui/button/ButtonActionIcon_80/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "fd84a981-c350-46f1-b831-63e733429665": [
+            "ui/button/ButtonActionLeft_100",
+            "cc.ImageAsset",
+            1
+        ],
+        "fd84a981-c350-46f1-b831-63e733429665@6c48a": [
+            "ui/button/ButtonActionLeft_100/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "fd84a981-c350-46f1-b831-63e733429665@f9941": [
+            "ui/button/ButtonActionLeft_100/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b2bf3d5c-217c-446a-8820-9fe099ebcdf0": [
+            "ui/button/ButtonActionLeft_80",
+            "cc.ImageAsset",
+            1
+        ],
+        "b2bf3d5c-217c-446a-8820-9fe099ebcdf0@6c48a": [
+            "ui/button/ButtonActionLeft_80/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "b2bf3d5c-217c-446a-8820-9fe099ebcdf0@f9941": [
+            "ui/button/ButtonActionLeft_80/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1082e7f7-39d0-4418-9517-ad533bbf211d": [
+            "ui/button/ButtonActionRight_100",
+            "cc.ImageAsset",
+            1
+        ],
+        "1082e7f7-39d0-4418-9517-ad533bbf211d@6c48a": [
+            "ui/button/ButtonActionRight_100/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "1082e7f7-39d0-4418-9517-ad533bbf211d@f9941": [
+            "ui/button/ButtonActionRight_100/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "637c9b58-e177-4ca0-8e5b-8990e6fe8760": [
+            "ui/button/ButtonActionRight_80",
+            "cc.ImageAsset",
+            1
+        ],
+        "637c9b58-e177-4ca0-8e5b-8990e6fe8760@6c48a": [
+            "ui/button/ButtonActionRight_80/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "637c9b58-e177-4ca0-8e5b-8990e6fe8760@f9941": [
+            "ui/button/ButtonActionRight_80/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "172bb2d1-b727-4830-8482-75e7cfede35b": [
+            "ui/button/ButtonTurnInner",
+            "cc.ImageAsset",
+            1
+        ],
+        "172bb2d1-b727-4830-8482-75e7cfede35b@6c48a": [
+            "ui/button/ButtonTurnInner/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "172bb2d1-b727-4830-8482-75e7cfede35b@f9941": [
+            "ui/button/ButtonTurnInner/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "56d41fa6-66c9-43ae-81e0-7f34c8218314": [
+            "ui/button/ButtonTurnOuter",
+            "cc.ImageAsset",
+            1
+        ],
+        "56d41fa6-66c9-43ae-81e0-7f34c8218314@6c48a": [
+            "ui/button/ButtonTurnOuter/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "56d41fa6-66c9-43ae-81e0-7f34c8218314@f9941": [
+            "ui/button/ButtonTurnOuter/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ad325419-5b45-4136-b80b-c4d7820e07ec": [
+            "ui/button/hexActionButton",
+            "cc.ImageAsset",
+            1
+        ],
+        "ad325419-5b45-4136-b80b-c4d7820e07ec@6c48a": [
+            "ui/button/hexActionButton/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "ad325419-5b45-4136-b80b-c4d7820e07ec@f9941": [
+            "ui/button/hexActionButton/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d7847476-873c-4bae-b3a6-0125e7fc3d42": [
+            "ui/button/newChunkButton",
+            "cc.ImageAsset",
+            1
+        ],
+        "d7847476-873c-4bae-b3a6-0125e7fc3d42@6c48a": [
+            "ui/button/newChunkButton/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d7847476-873c-4bae-b3a6-0125e7fc3d42@f9941": [
+            "ui/button/newChunkButton/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b4be75fe-f250-46b7-99e4-dfc7bf2c053b": [
+            "ui/digits/Digit0",
+            "cc.ImageAsset",
+            1
+        ],
+        "b4be75fe-f250-46b7-99e4-dfc7bf2c053b@6c48a": [
+            "ui/digits/Digit0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "b4be75fe-f250-46b7-99e4-dfc7bf2c053b@f9941": [
+            "ui/digits/Digit0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "fd8817f4-e6d2-4304-bfa7-dd29575f3a4d": [
+            "ui/digits/Digit1",
+            "cc.ImageAsset",
+            1
+        ],
+        "fd8817f4-e6d2-4304-bfa7-dd29575f3a4d@6c48a": [
+            "ui/digits/Digit1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "fd8817f4-e6d2-4304-bfa7-dd29575f3a4d@f9941": [
+            "ui/digits/Digit1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c17dc156-6e08-49b2-8984-35bdaf3d619f": [
+            "ui/digits/Digit2",
+            "cc.ImageAsset",
+            1
+        ],
+        "c17dc156-6e08-49b2-8984-35bdaf3d619f@6c48a": [
+            "ui/digits/Digit2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "c17dc156-6e08-49b2-8984-35bdaf3d619f@f9941": [
+            "ui/digits/Digit2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b7b3291d-9cf6-479c-8bfb-65425b705fc0": [
+            "ui/digits/Digit3",
+            "cc.ImageAsset",
+            1
+        ],
+        "b7b3291d-9cf6-479c-8bfb-65425b705fc0@6c48a": [
+            "ui/digits/Digit3/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "b7b3291d-9cf6-479c-8bfb-65425b705fc0@f9941": [
+            "ui/digits/Digit3/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8df682ab-aa9d-44cd-ad73-b072e560b38a": [
+            "ui/digits/Digit4",
+            "cc.ImageAsset",
+            1
+        ],
+        "8df682ab-aa9d-44cd-ad73-b072e560b38a@6c48a": [
+            "ui/digits/Digit4/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "8df682ab-aa9d-44cd-ad73-b072e560b38a@f9941": [
+            "ui/digits/Digit4/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1f177d73-b589-4aee-8cb1-1fe1731c394a": [
+            "ui/digits/Digit5",
+            "cc.ImageAsset",
+            1
+        ],
+        "1f177d73-b589-4aee-8cb1-1fe1731c394a@6c48a": [
+            "ui/digits/Digit5/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "1f177d73-b589-4aee-8cb1-1fe1731c394a@f9941": [
+            "ui/digits/Digit5/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "338f0e15-b194-41ee-bbd1-8118f1bb68b3": [
+            "ui/digits/Digit6",
+            "cc.ImageAsset",
+            1
+        ],
+        "338f0e15-b194-41ee-bbd1-8118f1bb68b3@6c48a": [
+            "ui/digits/Digit6/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "338f0e15-b194-41ee-bbd1-8118f1bb68b3@f9941": [
+            "ui/digits/Digit6/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "5560ea81-7bbc-4c86-9366-edff8f7a454d": [
+            "ui/digits/Digit7",
+            "cc.ImageAsset",
+            1
+        ],
+        "5560ea81-7bbc-4c86-9366-edff8f7a454d@6c48a": [
+            "ui/digits/Digit7/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "5560ea81-7bbc-4c86-9366-edff8f7a454d@f9941": [
+            "ui/digits/Digit7/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "59abb1a8-363a-4302-b459-162ac28fbb1f": [
+            "ui/digits/Digit8",
+            "cc.ImageAsset",
+            1
+        ],
+        "59abb1a8-363a-4302-b459-162ac28fbb1f@6c48a": [
+            "ui/digits/Digit8/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "59abb1a8-363a-4302-b459-162ac28fbb1f@f9941": [
+            "ui/digits/Digit8/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "3a7357dd-2a24-483a-bf71-dd90f8c65cee": [
+            "ui/digits/Digit9",
+            "cc.ImageAsset",
+            1
+        ],
+        "3a7357dd-2a24-483a-bf71-dd90f8c65cee@6c48a": [
+            "ui/digits/Digit9/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "3a7357dd-2a24-483a-bf71-dd90f8c65cee@f9941": [
+            "ui/digits/Digit9/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "e7d3ea3e-08a5-44e5-9e07-47cf46b20d2f": [
+            "ui/icons/ArrowRight_64",
+            "cc.ImageAsset",
+            1
+        ],
+        "e7d3ea3e-08a5-44e5-9e07-47cf46b20d2f@6c48a": [
+            "ui/icons/ArrowRight_64/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "e7d3ea3e-08a5-44e5-9e07-47cf46b20d2f@f9941": [
+            "ui/icons/ArrowRight_64/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "774e2e9e-1329-4ed7-8927-45481e2b58f5": [
+            "ui/icons/Back_64",
+            "cc.ImageAsset",
+            1
+        ],
+        "774e2e9e-1329-4ed7-8927-45481e2b58f5@6c48a": [
+            "ui/icons/Back_64/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "774e2e9e-1329-4ed7-8927-45481e2b58f5@f9941": [
+            "ui/icons/Back_64/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "79dbd11d-141d-4a1b-badb-460e2fd49885": [
+            "ui/icons/CoinStack_72",
+            "cc.ImageAsset",
+            1
+        ],
+        "79dbd11d-141d-4a1b-badb-460e2fd49885@6c48a": [
+            "ui/icons/CoinStack_72/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "79dbd11d-141d-4a1b-badb-460e2fd49885@f9941": [
+            "ui/icons/CoinStack_72/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1a0f8f52-1d6c-4ee6-b152-322490ee530e": [
+            "ui/icons/Crate_72",
+            "cc.ImageAsset",
+            1
+        ],
+        "1a0f8f52-1d6c-4ee6-b152-322490ee530e@6c48a": [
+            "ui/icons/Crate_72/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "1a0f8f52-1d6c-4ee6-b152-322490ee530e@f9941": [
+            "ui/icons/Crate_72/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "fc757137-f35c-4139-9874-78d29d093360": [
+            "ui/icons/Flat_Cancel_64",
+            "cc.ImageAsset",
+            1
+        ],
+        "fc757137-f35c-4139-9874-78d29d093360@6c48a": [
+            "ui/icons/Flat_Cancel_64/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "fc757137-f35c-4139-9874-78d29d093360@f9941": [
+            "ui/icons/Flat_Cancel_64/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d90240db-6f3d-40a3-a382-34a7fcb624d1": [
+            "ui/icons/Hammer_72",
+            "cc.ImageAsset",
+            1
+        ],
+        "d90240db-6f3d-40a3-a382-34a7fcb624d1@6c48a": [
+            "ui/icons/Hammer_72/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d90240db-6f3d-40a3-a382-34a7fcb624d1@f9941": [
+            "ui/icons/Hammer_72/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "0bd10ccc-b37f-4b33-80c1-3d9a5c4f508c": [
+            "ui/icons/Info_64",
+            "cc.ImageAsset",
+            1
+        ],
+        "0bd10ccc-b37f-4b33-80c1-3d9a5c4f508c@6c48a": [
+            "ui/icons/Info_64/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "0bd10ccc-b37f-4b33-80c1-3d9a5c4f508c@f9941": [
+            "ui/icons/Info_64/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "21c03f4f-52fa-4bd1-ae21-0d3cd91fafcc": [
+            "ui/icons/Log_64",
+            "cc.ImageAsset",
+            1
+        ],
+        "21c03f4f-52fa-4bd1-ae21-0d3cd91fafcc@6c48a": [
+            "ui/icons/Log_64/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "21c03f4f-52fa-4bd1-ae21-0d3cd91fafcc@f9941": [
+            "ui/icons/Log_64/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "193c387f-b46b-4e5b-90fb-4a05077fd30a": [
+            "ui/icons/Menu_64",
+            "cc.ImageAsset",
+            1
+        ],
+        "193c387f-b46b-4e5b-90fb-4a05077fd30a@6c48a": [
+            "ui/icons/Menu_64/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "193c387f-b46b-4e5b-90fb-4a05077fd30a@f9941": [
+            "ui/icons/Menu_64/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "fdf5a4e5-7015-4641-9155-19e50214c8a5": [
+            "ui/icons/Scroll_72",
+            "cc.ImageAsset",
+            1
+        ],
+        "fdf5a4e5-7015-4641-9155-19e50214c8a5@6c48a": [
+            "ui/icons/Scroll_72/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "fdf5a4e5-7015-4641-9155-19e50214c8a5@f9941": [
+            "ui/icons/Scroll_72/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ebc3fc98-36b0-4285-83f2-8761f06eeb26": [
+            "ui/icons/Settings_64",
+            "cc.ImageAsset",
+            1
+        ],
+        "ebc3fc98-36b0-4285-83f2-8761f06eeb26@6c48a": [
+            "ui/icons/Settings_64/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "ebc3fc98-36b0-4285-83f2-8761f06eeb26@f9941": [
+            "ui/icons/Settings_64/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "4ddb0c41-b0a4-4a3b-999a-d2a2563e9b82": [
+            "ui/icons/Tower_72",
+            "cc.ImageAsset",
+            1
+        ],
+        "4ddb0c41-b0a4-4a3b-999a-d2a2563e9b82@6c48a": [
+            "ui/icons/Tower_72/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "4ddb0c41-b0a4-4a3b-999a-d2a2563e9b82@f9941": [
+            "ui/icons/Tower_72/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "9c9d30f5-7c2a-40a0-a2b8-03c416e08402": [
+            "ui/logo/Logo",
+            "cc.ImageAsset",
+            1
+        ],
+        "9c9d30f5-7c2a-40a0-a2b8-03c416e08402@6c48a": [
+            "ui/logo/Logo/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "9c9d30f5-7c2a-40a0-a2b8-03c416e08402@f9941": [
+            "ui/logo/Logo/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "56ef0982-1dcc-4c23-8d19-271e1ca07dac": [
+            "ui/logo/LogoLong",
+            "cc.ImageAsset",
+            1
+        ],
+        "56ef0982-1dcc-4c23-8d19-271e1ca07dac@6c48a": [
+            "ui/logo/LogoLong/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "56ef0982-1dcc-4c23-8d19-271e1ca07dac@f9941": [
+            "ui/logo/LogoLong/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ae18160e-79ba-4c85-a0b3-2a1393c521a2": [
+            "ui/logo/SubLogo",
+            "cc.ImageAsset",
+            1
+        ],
+        "ae18160e-79ba-4c85-a0b3-2a1393c521a2@6c48a": [
+            "ui/logo/SubLogo/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "ae18160e-79ba-4c85-a0b3-2a1393c521a2@f9941": [
+            "ui/logo/SubLogo/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d0803b29-0ce0-4a87-bfe5-e71bea4b3633": [
+            "ui/logo/SubLogoPaused",
+            "cc.ImageAsset",
+            1
+        ],
+        "d0803b29-0ce0-4a87-bfe5-e71bea4b3633@6c48a": [
+            "ui/logo/SubLogoPaused/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d0803b29-0ce0-4a87-bfe5-e71bea4b3633@f9941": [
+            "ui/logo/SubLogoPaused/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "86328694-94e9-4c53-ae53-db4cfb2c7a56": [
+            "ui/resources/Log_128",
+            "cc.ImageAsset",
+            1
+        ],
+        "86328694-94e9-4c53-ae53-db4cfb2c7a56@6c48a": [
+            "ui/resources/Log_128/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "86328694-94e9-4c53-ae53-db4cfb2c7a56@f9941": [
+            "ui/resources/Log_128/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "27b65a15-487d-4ae2-87b0-3c6f5bf51bcf": [
+            "ui/resources/Plank_128",
+            "cc.ImageAsset",
+            1
+        ],
+        "27b65a15-487d-4ae2-87b0-3c6f5bf51bcf@6c48a": [
+            "ui/resources/Plank_128/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "27b65a15-487d-4ae2-87b0-3c6f5bf51bcf@f9941": [
+            "ui/resources/Plank_128/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "61dafb66-e2fe-4045-b7a1-bf284f7188a7": [
+            "ui/resources/Stone_128",
+            "cc.ImageAsset",
+            1
+        ],
+        "61dafb66-e2fe-4045-b7a1-bf284f7188a7@6c48a": [
+            "ui/resources/Stone_128/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "61dafb66-e2fe-4045-b7a1-bf284f7188a7@f9941": [
+            "ui/resources/Stone_128/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "052b42231": [
+            "0bd10ccc-b37f-4b33-80c1-3d9a5c4f508c@6c48a",
+            "1a0f8f52-1d6c-4ee6-b152-322490ee530e@6c48a",
+            "1f177d73-b589-4aee-8cb1-1fe1731c394a@6c48a",
+            "1fa42dfd-b7ac-4791-9812-7f1cf6b3f701@6c48a",
+            "2de305d2-f3af-4fb1-90ca-8e32cdfd3420@7d6ab",
+            "3a913b4d-2277-4f6c-8028-7cbfd04f00af@7d6ab",
+            "3a7357dd-2a24-483a-bf71-dd90f8c65cee@6c48a",
+            "3aebfcd6-17ca-458b-9061-8873735fba65@6c48a",
+            "4a8ca298-48de-45ce-95ae-73a3069a8ead@7d6ab",
+            "4ddb0c41-b0a4-4a3b-999a-d2a2563e9b82@6c48a",
+            "4ea3945c-f390-4ec7-bd26-30dc52753289@7d6ab",
+            "4f9a869d-ee9d-49b2-a3cd-9bd321641472@7d6ab",
+            "5a793beb-1c8b-4dc4-ad05-aeee6671df55@6c48a",
+            "5f1bfafa-8b67-448f-8be8-55668180965d@7d6ab",
+            "6adefc36-97d2-4704-b16b-e616def4b81d@6c48a",
+            "6c17e287-caa5-4c89-993e-135d6b2a35d7@7d6ab",
+            "6dc53edf-c80e-4fe3-ad10-d547dc13b2db@7d6ab",
+            "6ff5872b-95eb-4346-b96d-b15883eb8d2c@7d6ab",
+            "8a74fa24-f4ce-4179-a163-9a147d38916e@7d6ab",
+            "8c5e4d68-585b-401c-9f9a-c17ca02cbdc2@7d6ab",
+            "8da936f3-c753-43b1-9397-5311bda2aedb@6c48a",
+            "8df682ab-aa9d-44cd-ad73-b072e560b38a@6c48a",
+            "8df90620-cb7f-4492-b1c1-dc3fce6bd3b8@7d6ab",
+            "9c9d30f5-7c2a-40a0-a2b8-03c416e08402@6c48a",
+            "9df00641-1a58-449d-a55f-9403b018e211@7d6ab",
+            "10ef7d3b-f5d0-4430-813d-2f68d8289303@6c48a",
+            "12ccf59e-15a4-40a5-9329-f335cd75f07f@6c48a",
+            "21c03f4f-52fa-4bd1-ae21-0d3cd91fafcc@6c48a",
+            "27b65a15-487d-4ae2-87b0-3c6f5bf51bcf@6c48a",
+            "30fd0b0a-b89b-4de5-9ede-a1a8c4405ae2@6c48a",
+            "49b0b888-879f-454e-8182-6390f6ae0ad8@7d6ab",
+            "55d1d5ff-973a-4777-98be-937d34e25bd9@7d6ab",
+            "56d41fa6-66c9-43ae-81e0-7f34c8218314@6c48a",
+            "56ef0982-1dcc-4c23-8d19-271e1ca07dac@6c48a",
+            "59abb1a8-363a-4302-b459-162ac28fbb1f@6c48a",
+            "61dafb66-e2fe-4045-b7a1-bf284f7188a7@6c48a",
+            "62ee57b1-bcbf-428b-9264-fb60ab447991@6c48a",
+            "64f62fb5-2941-494d-ac7e-9abc0d6c3502@7d6ab",
+            "79dbd11d-141d-4a1b-badb-460e2fd49885@6c48a",
+            "84a0b865-0275-47fc-9fe4-0f03925a316c@6c48a",
+            "91fb97be-e779-4f88-8c3e-6763c9e65fd1@7d6ab",
+            "97df5e12-28a7-41b4-91eb-fa99dfd54cd2@6c48a",
+            "172bb2d1-b727-4830-8482-75e7cfede35b@6c48a",
+            "184c163e-f180-4ad1-b2f1-188c1a1b03df@7d6ab",
+            "193c387f-b46b-4e5b-90fb-4a05077fd30a@6c48a",
+            "277da579-b20c-45fe-8d27-c52d14abc1a2@7d6ab",
+            "311ffeac-61c8-41a4-b6b0-24ad2c5ccb47@7d6ab",
+            "338f0e15-b194-41ee-bbd1-8118f1bb68b3@6c48a",
+            "412fca1c-f74c-475a-9465-46b1dab56086@7d6ab",
+            "489fbe58-5d88-4f2d-ba8d-7730a83a5934@7d6ab",
+            "0532ed09-a71b-41da-8839-f01a8fd2b6dc@7d6ab",
+            "610da71b-6e8d-467b-91f2-ec45eccc0e03@7d6ab",
+            "637c9b58-e177-4ca0-8e5b-8990e6fe8760@6c48a",
+            "0664b993-1e28-431d-8a81-86e713929d03@7d6ab",
+            "696f4249-2773-479a-97ec-272d79185f1a@7d6ab",
+            "722ab53e-65b4-49dc-9d56-8d0c2e337ca1@7d6ab",
+            "774e2e9e-1329-4ed7-8927-45481e2b58f5@6c48a",
+            "785c8fba-4b5f-41ec-af7d-996b27ce8edb@7d6ab",
+            "1082e7f7-39d0-4418-9517-ad533bbf211d@6c48a",
+            "2071ab1b-5c3c-4e75-91d8-eb02060299be@7d6ab",
+            "2589d156-d383-4c47-9acf-0b9618041a98@7d6ab",
+            "5560ea81-7bbc-4c86-9366-edff8f7a454d@6c48a",
+            "5939cfc2-27a4-46b4-a585-5942383a40c0@6c48a",
+            "81458ceb-92a3-4dae-a4ca-8085d0099f96@6c48a",
+            "4734413a-3aed-4264-981a-2e3b919e7f62@7d6ab",
+            "86328694-94e9-4c53-ae53-db4cfb2c7a56@6c48a",
+            "a0aac948-c985-4fc0-8214-e6111c245e39@6c48a",
+            "a0f55f03-39e8-4497-b199-88c5317d285d@7d6ab",
+            "a90eab0a-2f4f-462f-a0f2-573c7d22b0af@7d6ab",
+            "ad325419-5b45-4136-b80b-c4d7820e07ec@6c48a",
+            "ae18160e-79ba-4c85-a0b3-2a1393c521a2@6c48a",
+            "afb68614-d0f0-4c63-a3f2-7a687dd9ef39@6c48a",
+            "b2bf3d5c-217c-446a-8820-9fe099ebcdf0@6c48a",
+            "b4be75fe-f250-46b7-99e4-dfc7bf2c053b@6c48a",
+            "b5c28b4f-791f-4d68-afaa-7d7559a1ab63@6c48a",
+            "b7b3291d-9cf6-479c-8bfb-65425b705fc0@6c48a",
+            "b533a48b-0d75-451f-8b94-e6d8e8f3ee2f@7d6ab",
+            "bb2453c1-2164-4116-8a00-89cde9136dfb@7d6ab",
+            "c3c60629-ae18-4eb3-aab7-60fc81a7ec2d@7d6ab",
+            "c9c5d7a1-8099-4f41-b14c-232cc9888939@6c48a",
+            "c17dc156-6e08-49b2-8984-35bdaf3d619f@6c48a",
+            "c67357aa-0b2b-4f21-99cd-caeb26ca076b@6c48a",
+            "d0b16bd1-7b94-4599-aefe-9adc1dd57be5@7d6ab",
+            "d4c2d6c8-abad-46d8-a42d-e80c4c7dc9d5@7d6ab",
+            "d9facf06-0816-496d-b8fd-b96830da0e19@7d6ab",
+            "d505cfc9-25d1-481c-b117-86a4c677d22b@7d6ab",
+            "d0803b29-0ce0-4a87-bfe5-e71bea4b3633@6c48a",
+            "d4495cff-0acb-4ad6-a768-45398dc01f28@7d6ab",
+            "d75905c0-f3b4-4d8a-91df-0af099f80c89@7d6ab",
+            "d90240db-6f3d-40a3-a382-34a7fcb624d1@6c48a",
+            "d7847476-873c-4bae-b3a6-0125e7fc3d42@6c48a",
+            "dbc0d695-7933-419e-bf0d-1ff2203133e9@6c48a",
+            "dbe85a21-e5e2-4e66-a5e4-65edf95b48c3@7d6ab",
+            "e7d3ea3e-08a5-44e5-9e07-47cf46b20d2f@6c48a",
+            "e9b41bc6-4fa6-4c3a-bcd0-076ca365a9fb@7d6ab",
+            "e7124161-41a5-4c0f-9b90-5d6b27b1e6db@7d6ab",
+            "eb90f830-7c2a-49da-b76a-3ce45b10c5cc@6c48a",
+            "ebc3fc98-36b0-4285-83f2-8761f06eeb26@6c48a",
+            "edd118b1-08c5-44dc-a6c8-ebea43f8eeae@7d6ab",
+            "f1e8de35-7033-4ccb-b857-ef1d493f6100@7d6ab",
+            "f6a75322-2560-4a74-8814-3d86b81379f8@7d6ab",
+            "f6d6e1e6-879c-4bd3-9942-f11ea80709c5@6c48a",
+            "fa2fc54b-f117-41b2-ac1d-b17592dc1061@6c48a",
+            "fc757137-f35c-4139-9874-78d29d093360@6c48a",
+            "fd84a981-c350-46f1-b831-63e733429665@6c48a",
+            "fd8817f4-e6d2-4304-bfa7-dd29575f3a4d@6c48a",
+            "fdf5a4e5-7015-4641-9155-19e50214c8a5@6c48a"
+        ],
+        "045678bc8": [
+            "0109e4b4-e7a6-49b1-a218-d2b0bf9d944c@29e0d",
+            "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+        ],
+        "084da7c7c": [
+            "0109e4b4-e7a6-49b1-a218-d2b0bf9d944c@57eb5",
+            "0109e4b4-e7a6-49b1-a218-d2b0bf9d944c@955ef",
+            "0109e4b4-e7a6-49b1-a218-d2b0bf9d944c@bef47"
+        ],
+        "0837a7a8a": [
+            "0532ed09-a71b-41da-8839-f01a8fd2b6dc@3ee36",
+            "0532ed09-a71b-41da-8839-f01a8fd2b6dc@63474",
+            "0532ed09-a71b-41da-8839-f01a8fd2b6dc@83472",
+            "0532ed09-a71b-41da-8839-f01a8fd2b6dc@8cb46",
+            "0532ed09-a71b-41da-8839-f01a8fd2b6dc@ec731"
+        ],
+        "0c90455ca": [
+            "0664b993-1e28-431d-8a81-86e713929d03@41bc4",
+            "0664b993-1e28-431d-8a81-86e713929d03@83472",
+            "0664b993-1e28-431d-8a81-86e713929d03@87ffa",
+            "0664b993-1e28-431d-8a81-86e713929d03@957b8"
+        ],
+        "057ccc302": [
+            "141bccb1-7321-48dd-b20f-4568ee225349@111ab",
+            "141bccb1-7321-48dd-b20f-4568ee225349@17464",
+            "141bccb1-7321-48dd-b20f-4568ee225349@53291"
+        ],
+        "046fb6020": [
+            "184c163e-f180-4ad1-b2f1-188c1a1b03df@00477",
+            "184c163e-f180-4ad1-b2f1-188c1a1b03df@6582c",
+            "184c163e-f180-4ad1-b2f1-188c1a1b03df@83472"
+        ],
+        "01aef955b": [
+            "1e20a1a8-8f8e-4d3e-9358-edfcd780bd2c",
+            "a0aac948-c985-4fc0-8214-e6111c245e39@f9941",
+            "fc757137-f35c-4139-9874-78d29d093360@f9941"
+        ],
+        "05af4264f": [
+            "2071ab1b-5c3c-4e75-91d8-eb02060299be@83472",
+            "2071ab1b-5c3c-4e75-91d8-eb02060299be@afb3e",
+            "2071ab1b-5c3c-4e75-91d8-eb02060299be@d5792"
+        ],
+        "03fbae2c6": [
+            "257f43e9-33b9-42c3-bc75-2128dfed01bd@14192",
+            "257f43e9-33b9-42c3-bc75-2128dfed01bd@3fdbc",
+            "257f43e9-33b9-42c3-bc75-2128dfed01bd@c9736",
+            "257f43e9-33b9-42c3-bc75-2128dfed01bd@d8c69"
+        ],
+        "0184606e6": [
+            "2589d156-d383-4c47-9acf-0b9618041a98@83472",
+            "2589d156-d383-4c47-9acf-0b9618041a98@c8f6a",
+            "2589d156-d383-4c47-9acf-0b9618041a98@cb600"
+        ],
+        "06db18870": [
+            "277da579-b20c-45fe-8d27-c52d14abc1a2@13964",
+            "277da579-b20c-45fe-8d27-c52d14abc1a2@641c8",
+            "277da579-b20c-45fe-8d27-c52d14abc1a2@83472"
+        ],
+        "06b91df12": [
+            "2de305d2-f3af-4fb1-90ca-8e32cdfd3420@20cc0",
+            "2de305d2-f3af-4fb1-90ca-8e32cdfd3420@83472",
+            "2de305d2-f3af-4fb1-90ca-8e32cdfd3420@df632"
+        ],
+        "09ca832d8": [
+            "311ffeac-61c8-41a4-b6b0-24ad2c5ccb47@7cb49",
+            "311ffeac-61c8-41a4-b6b0-24ad2c5ccb47@83472",
+            "311ffeac-61c8-41a4-b6b0-24ad2c5ccb47@88454"
+        ],
+        "040b1763f": [
+            "356cce2a-6a48-4f24-bd0e-fbc4b7b7fe1c",
+            "356cce2a-6a48-4f24-bd0e-fbc4b7b7fe1c@f9941"
+        ],
+        "0766d988e": [
+            "39410b50-8f31-40d2-9315-e1dcbe34ed8e@29e0d",
+            "39410b50-8f31-40d2-9315-e1dcbe34ed8e@57eb5",
+            "39410b50-8f31-40d2-9315-e1dcbe34ed8e@70daf",
+            "39410b50-8f31-40d2-9315-e1dcbe34ed8e@dce60"
+        ],
+        "01f0a4608": [
+            "3a913b4d-2277-4f6c-8028-7cbfd04f00af@0bf05",
+            "3a913b4d-2277-4f6c-8028-7cbfd04f00af@83472",
+            "3a913b4d-2277-4f6c-8028-7cbfd04f00af@fef4d"
+        ],
+        "0daee83a8": [
+            "3bf8b081-3595-4649-ad2e-2e3a12d6d409@29e0d",
+            "3bf8b081-3595-4649-ad2e-2e3a12d6d409@3cddf",
+            "3bf8b081-3595-4649-ad2e-2e3a12d6d409@57eb5",
+            "3bf8b081-3595-4649-ad2e-2e3a12d6d409@cc952"
+        ],
+        "0d6936ecb": [
+            "12ccf59e-15a4-40a5-9329-f335cd75f07f@f9941",
+            "1fa42dfd-b7ac-4791-9812-7f1cf6b3f701@f9941",
+            "3eb01d50-700a-45d4-b1bb-07cee4e4be1f",
+            "50a75f84-2cee-4ecf-84ff-934477ed306c",
+            "84a0b865-0275-47fc-9fe4-0f03925a316c@f9941",
+            "f6d6e1e6-879c-4bd3-9942-f11ea80709c5@f9941",
+            "fa2fc54b-f117-41b2-ac1d-b17592dc1061@f9941"
+        ],
+        "05099f51f": [
+            "412fca1c-f74c-475a-9465-46b1dab56086@0e993",
+            "412fca1c-f74c-475a-9465-46b1dab56086@28a9c",
+            "412fca1c-f74c-475a-9465-46b1dab56086@83472",
+            "412fca1c-f74c-475a-9465-46b1dab56086@b9350"
+        ],
+        "0cff5ce2e": [
+            "36852b6b-5a37-4585-baee-cf3db1d3c066",
+            "430c27eb-c460-4380-a1f3-4c9f4a26519a"
+        ],
+        "05683960f": [
+            "46b9508c-7d69-4747-9086-fbd54160d1d7@a8efa",
+            "46b9508c-7d69-4747-9086-fbd54160d1d7@b26dd"
+        ],
+        "06e14933e": [
+            "4734413a-3aed-4264-981a-2e3b919e7f62@7cc4d",
+            "4734413a-3aed-4264-981a-2e3b919e7f62@83472",
+            "4734413a-3aed-4264-981a-2e3b919e7f62@f3cf6"
+        ],
+        "0a1573b60": [
+            "489fbe58-5d88-4f2d-ba8d-7730a83a5934@69cdc",
+            "489fbe58-5d88-4f2d-ba8d-7730a83a5934@83472",
+            "489fbe58-5d88-4f2d-ba8d-7730a83a5934@fcf73"
+        ],
+        "0a51335d7": [
+            "49b0b888-879f-454e-8182-6390f6ae0ad8@0b1a2",
+            "49b0b888-879f-454e-8182-6390f6ae0ad8@83472",
+            "49b0b888-879f-454e-8182-6390f6ae0ad8@a7dd4"
+        ],
+        "01fe55c03": [
+            "4a8ca298-48de-45ce-95ae-73a3069a8ead@39b56",
+            "4a8ca298-48de-45ce-95ae-73a3069a8ead@60e90",
+            "4a8ca298-48de-45ce-95ae-73a3069a8ead@83472"
+        ],
+        "05da714f2": [
+            "4af72f80-b20b-49dc-a6a3-c31b8a3b2a1c@1aed9",
+            "4af72f80-b20b-49dc-a6a3-c31b8a3b2a1c@29e0d",
+            "4af72f80-b20b-49dc-a6a3-c31b8a3b2a1c@57eb5",
+            "4af72f80-b20b-49dc-a6a3-c31b8a3b2a1c@be137"
+        ],
+        "01eb52cb0": [
+            "4d9e46f0-22d1-423c-a6c7-5a581c5a4ca2",
+            "56ef0982-1dcc-4c23-8d19-271e1ca07dac@f9941",
+            "774e2e9e-1329-4ed7-8927-45481e2b58f5@f9941",
+            "ae18160e-79ba-4c85-a0b3-2a1393c521a2@f9941",
+            "d0803b29-0ce0-4a87-bfe5-e71bea4b3633@f9941",
+            "e7d3ea3e-08a5-44e5-9e07-47cf46b20d2f@f9941",
+            "ebc3fc98-36b0-4285-83f2-8761f06eeb26@f9941"
+        ],
+        "05c275115": [
+            "4ea3945c-f390-4ec7-bd26-30dc52753289@6964a",
+            "4ea3945c-f390-4ec7-bd26-30dc52753289@83472",
+            "4ea3945c-f390-4ec7-bd26-30dc52753289@959ad"
+        ],
+        "0de07a519": [
+            "4f9a869d-ee9d-49b2-a3cd-9bd321641472@0c438",
+            "4f9a869d-ee9d-49b2-a3cd-9bd321641472@8342f",
+            "4f9a869d-ee9d-49b2-a3cd-9bd321641472@83472",
+            "4f9a869d-ee9d-49b2-a3cd-9bd321641472@c0d43"
+        ],
+        "0c28d3711": [
+            "5011d23a-fd8e-4af7-a80b-feceb55e3ac3@29e0d",
+            "5011d23a-fd8e-4af7-a80b-feceb55e3ac3@3d924",
+            "5011d23a-fd8e-4af7-a80b-feceb55e3ac3@57eb5",
+            "5011d23a-fd8e-4af7-a80b-feceb55e3ac3@5b44a"
+        ],
+        "03e41ef79": [
+            "511126cd-b214-47a6-808d-2e04a9d10133",
+            "6ef1defe-7997-477a-9b35-c18859ff8066"
+        ],
+        "0787534a9": [
+            "55d1d5ff-973a-4777-98be-937d34e25bd9@83472",
+            "55d1d5ff-973a-4777-98be-937d34e25bd9@d2f98",
+            "55d1d5ff-973a-4777-98be-937d34e25bd9@ec14f"
+        ],
+        "0e1ac5d77": [
+            "5a45350c-a929-4bfe-a308-e96adf3a871f@29e0d",
+            "5a45350c-a929-4bfe-a308-e96adf3a871f@2f0d0",
+            "5a45350c-a929-4bfe-a308-e96adf3a871f@57eb5",
+            "5a45350c-a929-4bfe-a308-e96adf3a871f@ae2a4"
+        ],
+        "025d8ac01": [
+            "5f1bfafa-8b67-448f-8be8-55668180965d@4f476",
+            "5f1bfafa-8b67-448f-8be8-55668180965d@772ff",
+            "5f1bfafa-8b67-448f-8be8-55668180965d@83472"
+        ],
+        "04a0bd43a": [
+            "0bd10ccc-b37f-4b33-80c1-3d9a5c4f508c@f9941",
+            "5fb1decd-faf0-44e4-9c15-2bd93cc11267",
+            "d90240db-6f3d-40a3-a382-34a7fcb624d1@f9941"
+        ],
+        "0b07d21e2": [
+            "610da71b-6e8d-467b-91f2-ec45eccc0e03@83472",
+            "610da71b-6e8d-467b-91f2-ec45eccc0e03@a6724",
+            "610da71b-6e8d-467b-91f2-ec45eccc0e03@c75ab"
+        ],
+        "0c59d5f5b": [
+            "63fee5ad-604a-4a7b-898e-1b35800c016d@29e0d",
+            "63fee5ad-604a-4a7b-898e-1b35800c016d@57eb5",
+            "63fee5ad-604a-4a7b-898e-1b35800c016d@709ec",
+            "63fee5ad-604a-4a7b-898e-1b35800c016d@ef5f2"
+        ],
+        "02b5a2dba": [
+            "64f62fb5-2941-494d-ac7e-9abc0d6c3502@0d4f9",
+            "64f62fb5-2941-494d-ac7e-9abc0d6c3502@1d15b",
+            "64f62fb5-2941-494d-ac7e-9abc0d6c3502@83472"
+        ],
+        "076d75202": [
+            "66fbb2d2-9b34-41bf-aaed-2d1ee02e43a5@2054e",
+            "66fbb2d2-9b34-41bf-aaed-2d1ee02e43a5@29e0d",
+            "66fbb2d2-9b34-41bf-aaed-2d1ee02e43a5@57eb5",
+            "66fbb2d2-9b34-41bf-aaed-2d1ee02e43a5@bb8ad"
+        ],
+        "0241f4bf6": [
+            "67db095d-d36e-4924-b638-6e2a72dd3c23@29e0d",
+            "67db095d-d36e-4924-b638-6e2a72dd3c23@2a339",
+            "67db095d-d36e-4924-b638-6e2a72dd3c23@57eb5",
+            "67db095d-d36e-4924-b638-6e2a72dd3c23@75ccf"
+        ],
+        "01cc3ed75": [
+            "696f4249-2773-479a-97ec-272d79185f1a@186bd",
+            "696f4249-2773-479a-97ec-272d79185f1a@83472",
+            "696f4249-2773-479a-97ec-272d79185f1a@db428"
+        ],
+        "0acec0d3a": [
+            "6c17e287-caa5-4c89-993e-135d6b2a35d7@239c2",
+            "6c17e287-caa5-4c89-993e-135d6b2a35d7@32c5d",
+            "6c17e287-caa5-4c89-993e-135d6b2a35d7@83472"
+        ],
+        "0115aa767": [
+            "6cc526ce-ba0f-4d36-ba25-0a106d5c970a@17464",
+            "6cc526ce-ba0f-4d36-ba25-0a106d5c970a@4f7eb",
+            "6cc526ce-ba0f-4d36-ba25-0a106d5c970a@89988"
+        ],
+        "0c38f6cb1": [
+            "6dc53edf-c80e-4fe3-ad10-d547dc13b2db@83472",
+            "6dc53edf-c80e-4fe3-ad10-d547dc13b2db@ba6ad",
+            "6dc53edf-c80e-4fe3-ad10-d547dc13b2db@e6184"
+        ],
+        "02c50a0c4": [
+            "6ff5872b-95eb-4346-b96d-b15883eb8d2c@83472",
+            "6ff5872b-95eb-4346-b96d-b15883eb8d2c@888b1",
+            "6ff5872b-95eb-4346-b96d-b15883eb8d2c@d841a"
+        ],
+        "01f3d1398": [
+            "71aa083c-48e8-4e75-b6f8-853fa22f7e87@08c68",
+            "71aa083c-48e8-4e75-b6f8-853fa22f7e87@a5a37"
+        ],
+        "0a7e55b97": [
+            "722ab53e-65b4-49dc-9d56-8d0c2e337ca1@50cd0",
+            "722ab53e-65b4-49dc-9d56-8d0c2e337ca1@55a86",
+            "722ab53e-65b4-49dc-9d56-8d0c2e337ca1@82d4b",
+            "722ab53e-65b4-49dc-9d56-8d0c2e337ca1@83472"
+        ],
+        "023f23ba7": [
+            "78465a4d-2a60-42d6-92fd-55091089a02e@29e0d",
+            "78465a4d-2a60-42d6-92fd-55091089a02e@55fbc",
+            "78465a4d-2a60-42d6-92fd-55091089a02e@57eb5",
+            "78465a4d-2a60-42d6-92fd-55091089a02e@c0397"
+        ],
+        "01257abbe": [
+            "785c8fba-4b5f-41ec-af7d-996b27ce8edb@178c6",
+            "785c8fba-4b5f-41ec-af7d-996b27ce8edb@83472",
+            "785c8fba-4b5f-41ec-af7d-996b27ce8edb@f7c6e"
+        ],
+        "025845bca": [
+            "793814e3-4a0c-489f-8281-25803053b5f5@17464",
+            "793814e3-4a0c-489f-8281-25803053b5f5@3fdbc",
+            "793814e3-4a0c-489f-8281-25803053b5f5@c3bc7",
+            "793814e3-4a0c-489f-8281-25803053b5f5@d8c69",
+            "793814e3-4a0c-489f-8281-25803053b5f5@edc28"
+        ],
+        "0e780838b": [
+            "79c9a870-7b5e-4ad8-8104-ef8fb950c029@29e0d",
+            "79c9a870-7b5e-4ad8-8104-ef8fb950c029@41e61",
+            "79c9a870-7b5e-4ad8-8104-ef8fb950c029@57eb5",
+            "79c9a870-7b5e-4ad8-8104-ef8fb950c029@a2f86"
+        ],
+        "025405a72": [
+            "8a74fa24-f4ce-4179-a163-9a147d38916e@74cdc",
+            "8a74fa24-f4ce-4179-a163-9a147d38916e@83472",
+            "8a74fa24-f4ce-4179-a163-9a147d38916e@c85ba"
+        ],
+        "01566267d": [
+            "8c5e4d68-585b-401c-9f9a-c17ca02cbdc2@83472",
+            "8c5e4d68-585b-401c-9f9a-c17ca02cbdc2@c0096",
+            "8c5e4d68-585b-401c-9f9a-c17ca02cbdc2@d11ff"
+        ],
+        "0231c4e39": [
+            "8df90620-cb7f-4492-b1c1-dc3fce6bd3b8@4469f",
+            "8df90620-cb7f-4492-b1c1-dc3fce6bd3b8@83472",
+            "8df90620-cb7f-4492-b1c1-dc3fce6bd3b8@e203b"
+        ],
+        "0711a5191": [
+            "1089309a-b080-4fcb-b6ed-1cb2ef948b30",
+            "91969964-2b15-452c-89c0-617d92470b5d"
+        ],
+        "03f93382e": [
+            "91fb97be-e779-4f88-8c3e-6763c9e65fd1@1d1f6",
+            "91fb97be-e779-4f88-8c3e-6763c9e65fd1@83472",
+            "91fb97be-e779-4f88-8c3e-6763c9e65fd1@8e1bb"
+        ],
+        "09c09c88e": [
+            "96586139-d0e7-469c-89ac-f8e0bc2e0cd5@17464",
+            "96586139-d0e7-469c-89ac-f8e0bc2e0cd5@23831",
+            "96586139-d0e7-469c-89ac-f8e0bc2e0cd5@3fdbc",
+            "96586139-d0e7-469c-89ac-f8e0bc2e0cd5@d8c69",
+            "96586139-d0e7-469c-89ac-f8e0bc2e0cd5@f7d13"
+        ],
+        "0a4eb435c": [
+            "96cdff4b-d77c-4f88-867d-3862d4df285f",
+            "96cdff4b-d77c-4f88-867d-3862d4df285f@f9941"
+        ],
+        "01c16bff4": [
+            "9a1c8ef7-e098-4cbb-9448-b0cf7f56bb98@29e0d",
+            "9a1c8ef7-e098-4cbb-9448-b0cf7f56bb98@57eb5",
+            "9a1c8ef7-e098-4cbb-9448-b0cf7f56bb98@8688b",
+            "9a1c8ef7-e098-4cbb-9448-b0cf7f56bb98@967f4"
+        ],
+        "0cae3fc39": [
+            "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@17464",
+            "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@1f97b",
+            "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@3cf4b",
+            "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@3fdbc",
+            "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@935df",
+            "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@9e51f",
+            "9d6d305b-7081-4146-ae1b-6ed8e9f57fbd@bb449"
+        ],
+        "0b351f61f": [
+            "9df00641-1a58-449d-a55f-9403b018e211@1bb49",
+            "9df00641-1a58-449d-a55f-9403b018e211@2d196",
+            "9df00641-1a58-449d-a55f-9403b018e211@5c8c6",
+            "9df00641-1a58-449d-a55f-9403b018e211@83472",
+            "9df00641-1a58-449d-a55f-9403b018e211@d6d41"
+        ],
+        "0522432a0": [
+            "a0f55f03-39e8-4497-b199-88c5317d285d@13a2f",
+            "a0f55f03-39e8-4497-b199-88c5317d285d@14732",
+            "a0f55f03-39e8-4497-b199-88c5317d285d@5a95a",
+            "a0f55f03-39e8-4497-b199-88c5317d285d@83472",
+            "a0f55f03-39e8-4497-b199-88c5317d285d@de43a"
+        ],
+        "0aa6b9e8a": [
+            "a90eab0a-2f4f-462f-a0f2-573c7d22b0af@4d48f",
+            "a90eab0a-2f4f-462f-a0f2-573c7d22b0af@83472",
+            "a90eab0a-2f4f-462f-a0f2-573c7d22b0af@84f08",
+            "a90eab0a-2f4f-462f-a0f2-573c7d22b0af@dbf07",
+            "a90eab0a-2f4f-462f-a0f2-573c7d22b0af@dec1a"
+        ],
+        "099464b41": [
+            "af8577f3-baee-4506-bfe6-0260935e103f@17464",
+            "af8577f3-baee-4506-bfe6-0260935e103f@7fb43",
+            "af8577f3-baee-4506-bfe6-0260935e103f@d65f3"
+        ],
+        "0b66fdd7f": [
+            "b533a48b-0d75-451f-8b94-e6d8e8f3ee2f@034d2",
+            "b533a48b-0d75-451f-8b94-e6d8e8f3ee2f@83472",
+            "b533a48b-0d75-451f-8b94-e6d8e8f3ee2f@93762"
+        ],
+        "085d52d12": [
+            "bb2453c1-2164-4116-8a00-89cde9136dfb@00842",
+            "bb2453c1-2164-4116-8a00-89cde9136dfb@83472",
+            "bb2453c1-2164-4116-8a00-89cde9136dfb@ba2ce",
+            "bb2453c1-2164-4116-8a00-89cde9136dfb@beb25",
+            "bb2453c1-2164-4116-8a00-89cde9136dfb@e0fd9"
+        ],
+        "067b45550": [
+            "c3c60629-ae18-4eb3-aab7-60fc81a7ec2d@07c7f",
+            "c3c60629-ae18-4eb3-aab7-60fc81a7ec2d@83472",
+            "c3c60629-ae18-4eb3-aab7-60fc81a7ec2d@911cf"
+        ],
+        "0424c50f3": [
+            "172bb2d1-b727-4830-8482-75e7cfede35b@f9941",
+            "1a0f8f52-1d6c-4ee6-b152-322490ee530e@f9941",
+            "4ddb0c41-b0a4-4a3b-999a-d2a2563e9b82@f9941",
+            "56d41fa6-66c9-43ae-81e0-7f34c8218314@f9941",
+            "79dbd11d-141d-4a1b-badb-460e2fd49885@f9941",
+            "c9b7c5ee-cbb1-4934-8fa9-d60def76319e",
+            "fdf5a4e5-7015-4641-9155-19e50214c8a5@f9941"
+        ],
+        "03c334300": [
+            "cab129ce-55d5-44fa-ac5d-949459c43dcd@29e0d",
+            "cab129ce-55d5-44fa-ac5d-949459c43dcd@57eb5",
+            "cab129ce-55d5-44fa-ac5d-949459c43dcd@6699d",
+            "cab129ce-55d5-44fa-ac5d-949459c43dcd@b5c11"
+        ],
+        "0292f2aa0": [
+            "cd5b1005-30b4-4dbb-8337-14605bb7b87d@114bf",
+            "cd5b1005-30b4-4dbb-8337-14605bb7b87d@17464",
+            "cd5b1005-30b4-4dbb-8337-14605bb7b87d@3fdbc",
+            "cd5b1005-30b4-4dbb-8337-14605bb7b87d@47f98",
+            "cd5b1005-30b4-4dbb-8337-14605bb7b87d@9f269",
+            "cd5b1005-30b4-4dbb-8337-14605bb7b87d@d8c69"
+        ],
+        "09864ec79": [
+            "d0781114-570b-427b-aa07-d5a576330515@09ad3",
+            "d0781114-570b-427b-aa07-d5a576330515@52aff"
+        ],
+        "02896b532": [
+            "d0b16bd1-7b94-4599-aefe-9adc1dd57be5@3dfe1",
+            "d0b16bd1-7b94-4599-aefe-9adc1dd57be5@45fc0",
+            "d0b16bd1-7b94-4599-aefe-9adc1dd57be5@83472"
+        ],
+        "03f1317fb": [
+            "d3a667b1-e296-48de-bcc3-31cd6cc38c52@29e0d",
+            "d3a667b1-e296-48de-bcc3-31cd6cc38c52@57eb5",
+            "d3a667b1-e296-48de-bcc3-31cd6cc38c52@61332",
+            "d3a667b1-e296-48de-bcc3-31cd6cc38c52@97e10"
+        ],
+        "0f05d2404": [
+            "d4495cff-0acb-4ad6-a768-45398dc01f28@83472",
+            "d4495cff-0acb-4ad6-a768-45398dc01f28@8b046",
+            "d4495cff-0acb-4ad6-a768-45398dc01f28@b905c"
+        ],
+        "038f231eb": [
+            "d4c2d6c8-abad-46d8-a42d-e80c4c7dc9d5@5a651",
+            "d4c2d6c8-abad-46d8-a42d-e80c4c7dc9d5@7433f",
+            "d4c2d6c8-abad-46d8-a42d-e80c4c7dc9d5@83472"
+        ],
+        "0d59425fa": [
+            "d505cfc9-25d1-481c-b117-86a4c677d22b@3cee1",
+            "d505cfc9-25d1-481c-b117-86a4c677d22b@83472",
+            "d505cfc9-25d1-481c-b117-86a4c677d22b@c5abc"
+        ],
+        "03451c9a8": [
+            "d75905c0-f3b4-4d8a-91df-0af099f80c89@5fbf0",
+            "d75905c0-f3b4-4d8a-91df-0af099f80c89@83472",
+            "d75905c0-f3b4-4d8a-91df-0af099f80c89@eb1b4"
+        ],
+        "02f95a794": [
+            "d9facf06-0816-496d-b8fd-b96830da0e19@18218",
+            "d9facf06-0816-496d-b8fd-b96830da0e19@2538b",
+            "d9facf06-0816-496d-b8fd-b96830da0e19@83472",
+            "d9facf06-0816-496d-b8fd-b96830da0e19@a97d7",
+            "d9facf06-0816-496d-b8fd-b96830da0e19@c2df1"
+        ],
+        "0c238e2c3": [
+            "dbe85a21-e5e2-4e66-a5e4-65edf95b48c3@46d33",
+            "dbe85a21-e5e2-4e66-a5e4-65edf95b48c3@83472",
+            "dbe85a21-e5e2-4e66-a5e4-65edf95b48c3@c5005"
+        ],
+        "0c827392f": [
+            "e7124161-41a5-4c0f-9b90-5d6b27b1e6db@6c61e",
+            "e7124161-41a5-4c0f-9b90-5d6b27b1e6db@83472",
+            "e7124161-41a5-4c0f-9b90-5d6b27b1e6db@ba56e"
+        ],
+        "04414146e": [
+            "e9b41bc6-4fa6-4c3a-bcd0-076ca365a9fb@462d6",
+            "e9b41bc6-4fa6-4c3a-bcd0-076ca365a9fb@83472",
+            "e9b41bc6-4fa6-4c3a-bcd0-076ca365a9fb@98433"
+        ],
+        "0c2aab3c4": [
+            "edd118b1-08c5-44dc-a6c8-ebea43f8eeae@629ad",
+            "edd118b1-08c5-44dc-a6c8-ebea43f8eeae@6c7eb",
+            "edd118b1-08c5-44dc-a6c8-ebea43f8eeae@83472"
+        ],
+        "0544707cc": [
+            "f01f58ee-01ce-4b96-9ed7-e8083dec9bcc",
+            "f01f58ee-01ce-4b96-9ed7-e8083dec9bcc@f9941"
+        ],
+        "0409b28fa": [
+            "f1e8de35-7033-4ccb-b857-ef1d493f6100@19063",
+            "f1e8de35-7033-4ccb-b857-ef1d493f6100@2c7cc",
+            "f1e8de35-7033-4ccb-b857-ef1d493f6100@83472",
+            "f1e8de35-7033-4ccb-b857-ef1d493f6100@aa6c7"
+        ],
+        "0f6bdf64a": [
+            "f446b796-5fd8-4655-a466-8d7cb4bd7ba1@30f15",
+            "f446b796-5fd8-4655-a466-8d7cb4bd7ba1@531c0"
+        ],
+        "057ba8855": [
+            "f6a75322-2560-4a74-8814-3d86b81379f8@1f5f0",
+            "f6a75322-2560-4a74-8814-3d86b81379f8@3cafa",
+            "f6a75322-2560-4a74-8814-3d86b81379f8@83472"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [
+        "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
